@@ -1,7 +1,6 @@
 /**
  * The theme catalogue shared by every module of the hub: a profile's
- * interests, a quiz question and (later) a revision deck all point to these
- * ids. An id is forever (stored in profiles and histories); change the label.
+ * interests and a quiz question both point to these ids. An id is forever (stored in profiles and histories); change the label.
  */
 export interface ThemeDefinition {
   id: string;

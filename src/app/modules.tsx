@@ -1,12 +1,5 @@
 import type { LucideIcon } from "lucide-react";
-import {
-  BookOpenCheck,
-  CalendarDays,
-  Globe2,
-  PenLine,
-  Sparkles,
-  Users,
-} from "lucide-react";
+import { Globe2, PenLine, Sparkles, Users } from "lucide-react";
 import type { RouteObject } from "react-router-dom";
 
 import { ContributePage } from "@modules/contributions/ui/ContributePage";
@@ -82,21 +75,6 @@ export const MODULES: readonly HubModule[] = [
     tagline:
       "Un code, chacun sur son téléphone, et les défis contre le reste du monde.",
     icon: Globe2,
-    status: "soon",
-  },
-  {
-    id: "revision",
-    title: "Révision",
-    tagline:
-      "Répétition espacée sur des thèmes poussés (médecine, examens) ou pour les enfants.",
-    icon: BookOpenCheck,
-    status: "soon",
-  },
-  {
-    id: "planning",
-    title: "Planning",
-    tagline: "Organiser ses sessions de révision et celles d’une équipe.",
-    icon: CalendarDays,
     status: "soon",
   },
 ];

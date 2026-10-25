@@ -5,7 +5,7 @@ Date : 2026-10-25 · Statut : acceptée
 ## Contexte
 
 Le prototype (quiz-trentenaires) est un Next.js exporté en statique avec 300 questions embarquées.
-L'objectif est d'en faire un hub (quiz, révision, planning, jeu en ligne) maintenable dans la durée,
+L'objectif est d'en faire un hub (quiz, profils, contributions, jeu en ligne) maintenable dans la durée,
 avec les standards de qualité de web.data-scorecards.
 
 ## Décision

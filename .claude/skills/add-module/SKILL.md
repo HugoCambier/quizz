@@ -1,6 +1,6 @@
 ---
 name: add-module
-description: Scaffold a new hub module (e.g. revision, planning, online rooms) following the src/modules/<module>/{domain,data,ui} layout and register it in src/app/modules.tsx. Use when asked to "ajouter un module", "créer la section X", "démarrer la révision / le planning".
+description: Scaffold a new hub module (e.g. online rooms) following the src/modules/<module>/{domain,data,ui} layout and register it in src/app/modules.tsx. Use when asked to "ajouter un module", "créer la section X".
 ---
 
 # Add a hub module
