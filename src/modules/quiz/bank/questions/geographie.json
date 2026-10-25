@@ -1,0 +1,290 @@
+{
+  "theme": "geographie",
+  "questions": [
+    {
+      "id": "geographie-001",
+      "difficulty": 1,
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "answer": 2,
+      "explanation": "Fondée en 1913, Canberra a été choisie comme compromis entre les deux grandes métropoles rivales, Sydney et Melbourne."
+    },
+    {
+      "id": "geographie-002",
+      "difficulty": 1,
+      "question": "Quel océan sépare l'Europe du continent américain ?",
+      "options": [
+        "L'océan Pacifique",
+        "L'océan Indien",
+        "L'océan Arctique",
+        "L'océan Atlantique"
+      ],
+      "answer": 3,
+      "explanation": "Deuxième plus grand océan du monde après le Pacifique, l'Atlantique couvre environ un cinquième de la surface de la Terre."
+    },
+    {
+      "id": "geographie-003",
+      "difficulty": 1,
+      "question": "Dans quelle ville européenne peut-on admirer le Colisée et la fontaine de Trevi ?",
+      "options": ["Athènes", "Rome", "Madrid", "Lisbonne"],
+      "answer": 1,
+      "explanation": "Chaque année, les touristes jettent plus d'un million d'euros en pièces de monnaie dans la fontaine de Trevi à Rome, reversés à des œuvres caritatives."
+    },
+    {
+      "id": "geographie-004",
+      "difficulty": 2,
+      "question": "Quel fleuve traverse les capitales Vienne, Bratislava, Budapest et Belgrade ?",
+      "options": ["Le Rhin", "L'Elbe", "La Volga", "Le Danube"],
+      "answer": 3,
+      "explanation": "Long de près de 2 850 km, le Danube traverse dix pays européens et détient le record mondial du nombre de capitales traversées (quatre)."
+    },
+    {
+      "id": "geographie-005",
+      "difficulty": 2,
+      "question": "Dans quel pays se situe la cité inca du Machu Picchu ?",
+      "options": ["La Bolivie", "Le Pérou", "Le Chili", "La Colombie"],
+      "answer": 1,
+      "explanation": "Perchée à 2 430 mètres d'altitude dans la cordillère des Andes péruviennes, cette cité du XVe siècle a été rendue célèbre mondialement par Hiram Bingham en 1911."
+    },
+    {
+      "id": "geographie-006",
+      "difficulty": 2,
+      "question": "Quelle est la capitale du Canada ?",
+      "options": ["Toronto", "Montréal", "Vancouver", "Ottawa"],
+      "answer": 3,
+      "explanation": "Choisie par la reine Victoria en 1857, Ottawa est située dans la province de l'Ontario, juste à la frontière avec le Québec."
+    },
+    {
+      "id": "geographie-007",
+      "difficulty": 3,
+      "question": "Quel détroit sépare l'Espagne du Maroc et relie l'océan Atlantique à la mer Méditerranée ?",
+      "options": [
+        "Le détroit du Bosphore",
+        "Le détroit de Gibraltar",
+        "Le détroit de Messine",
+        "Le détroit d'Ormuz"
+      ],
+      "answer": 1,
+      "explanation": "Dans sa partie la plus étroite, le détroit de Gibraltar ne mesure qu'environ 14 kilomètres de large entre l'Europe et l'Afrique."
+    },
+    {
+      "id": "geographie-008",
+      "difficulty": 3,
+      "question": "Quel pays d'Amérique du Sud est le seul dont la langue officielle est le portugais ?",
+      "options": ["L'Argentine", "La Colombie", "Le Venezuela", "Le Brésil"],
+      "answer": 3,
+      "explanation": "Suite au traité de Tordesillas signé en 1494 entre l'Espagne et le Portugal, la partie orientale de l'Amérique du Sud est revenue à la couronne portugaise."
+    },
+    {
+      "id": "geographie-009",
+      "difficulty": 3,
+      "question": "Combien d'étoiles figurent sur le drapeau de l'Union européenne ?",
+      "options": ["10", "12", "15", "27"],
+      "answer": 1,
+      "explanation": "Le nombre de 12 étoiles dorées en cercle est fixe et ne dépend pas du nombre d'États membres : le chiffre 12 est un symbole traditionnel de perfection et d'unité."
+    },
+    {
+      "id": "geographie-010",
+      "difficulty": 4,
+      "question": "Dans quel pays européen se trouve la région historique de la Transylvanie ?",
+      "options": ["La Hongrie", "La Bulgarie", "La Serbie", "La Roumanie"],
+      "answer": 3,
+      "explanation": "Située au centre de la Roumanie et entourée par la chaîne des Carpates, la Transylvanie est célèbre pour ses châteaux médiévaux et le mythe de Dracula."
+    },
+    {
+      "id": "geographie-011",
+      "difficulty": 4,
+      "question": "Quelle est la plus grande île de la mer Méditerranée ?",
+      "options": ["La Sardaigne", "La Sicile", "Chypre", "La Corse"],
+      "answer": 1,
+      "explanation": "Avec près de 25 700 km², la Sicile devance de peu la Sardaigne (24 000 km²), suivie par Chypre, la Corse et la Crète."
+    },
+    {
+      "id": "geographie-012",
+      "difficulty": 4,
+      "question": "Quel est le plus petit État souverain du monde en superficie ?",
+      "options": ["Monaco", "Saint-Marin", "Le Liechtenstein", "Le Vatican"],
+      "answer": 3,
+      "explanation": "Enclavé dans la ville de Rome, l'État de la Cité du Vatican ne couvre que 0,44 km² (44 hectares) et compte moins de 1 000 habitants."
+    },
+    {
+      "id": "geographie-013",
+      "difficulty": 5,
+      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+      "options": ["Auckland", "Wellington", "Christchurch", "Queenstown"],
+      "answer": 1,
+      "explanation": "Bien qu'Auckland soit de loin la ville la plus peuplée du pays, c'est Wellington, située à la pointe sud de l'île du Nord, qui est la capitale depuis 1865."
+    },
+    {
+      "id": "geographie-014",
+      "difficulty": 5,
+      "question": "Quel est le plus long fleuve de France métropolitaine qui coule entièrement sur le territoire national ?",
+      "options": ["La Seine", "Le Rhône", "La Garonne", "La Loire"],
+      "answer": 3,
+      "explanation": "Avec ses 1 006 kilomètres, de sa source au mont Gerbier-de-Jonc (Ardèche) jusqu'à son estuaire à Saint-Nazaire, la Loire est le plus long fleuve de France."
+    },
+    {
+      "id": "geographie-015",
+      "difficulty": 5,
+      "question": "Dans quel massif montagneux français se situe le Puy de Dôme ?",
+      "options": ["Le Jura", "Le Massif central", "Les Vosges", "Les Pyrénées"],
+      "answer": 1,
+      "explanation": "Culminant à 1 465 mètres dans le département du même nom, ce volcan endormi de la chaîne des Puys (Massif central) était aussi l'emblème du jeu télévisé La Carte aux trésors !"
+    },
+    {
+      "id": "geographie-016",
+      "difficulty": 6,
+      "question": "Quel fleuve européen traverse successivement quatre capitales d’État : Vienne, Bratislava, Budapest et Belgrade ?",
+      "options": ["Le Rhin", "L’Elbe", "L’Oder", "Le Danube"],
+      "answer": 3,
+      "explanation": "Deuxième plus long fleuve d’Europe après la Volga, le Danube traverse dix pays avant de se jeter dans la mer Noire."
+    },
+    {
+      "id": "geographie-017",
+      "difficulty": 6,
+      "question": "Quelle est la capitale de l’Australie, souvent confondue à tort avec Sydney ou Melbourne ?",
+      "options": ["Adélaïde", "Canberra", "Brisbane", "Perth"],
+      "answer": 1,
+      "explanation": "Choisie en 1908 comme compromis diplomatique entre les deux grandes rivales Sydney et Melbourne, Canberra a été construite de toutes pièces."
+    },
+    {
+      "id": "geographie-018",
+      "difficulty": 6,
+      "question": "Quel détroit sépare l’Espagne du Maroc sur seulement 14 kilomètres à son point le plus étroit ?",
+      "options": [
+        "Le détroit du Bosphore",
+        "Le détroit de Messine",
+        "Le détroit d’Ormuz",
+        "Le détroit de Gibraltar"
+      ],
+      "answer": 3,
+      "explanation": "Dans l’Antiquité, les rochers situés de part et d’autre du détroit de Gibraltar étaient appelés les \"Colonnes d’Hercule\"."
+    },
+    {
+      "id": "geographie-019",
+      "difficulty": 7,
+      "question": "Dans quel pays d’Amérique du Sud se trouve le Salar d’Uyuni, le plus vaste désert de sel du monde ?",
+      "options": ["Le Chili", "La Bolivie", "Le Pérou", "L’Argentine"],
+      "answer": 1,
+      "explanation": "Situé à 3 658 mètres d’altitude sur les hauts plateaux boliviens, il renferme l’une des plus grandes réserves mondiales de lithium."
+    },
+    {
+      "id": "geographie-020",
+      "difficulty": 7,
+      "question": "Quelle île de la Méditerranée est divisée depuis 1974 par une \"Ligne verte\" contrôlée par l’ONU, coupant sa capitale Nicosie en deux ?",
+      "options": ["Malte", "La Crète", "Rhodes", "Chypre"],
+      "answer": 3,
+      "explanation": "Nicosie est aujourd’hui la dernière capitale divisée d’Europe, partagée entre la République de Chypre au sud et la partie nord sous contrôle turc."
+    },
+    {
+      "id": "geographie-021",
+      "difficulty": 7,
+      "question": "Quel est le seul pays au monde dont le drapeau national ne possède ni la forme d’un rectangle ni celle d’un carré ?",
+      "options": ["Le Bhoutan", "Le Népal", "Le Sri Lanka", "Le Vatican"],
+      "answer": 1,
+      "explanation": "Composé de deux pennons triangulaires superposés symbolisant l’Himalaya ainsi que l’hindouisme et le bouddhisme, le drapeau du Népal est unique au monde."
+    },
+    {
+      "id": "geographie-022",
+      "difficulty": 8,
+      "question": "Laquelle de ces quatre capitales européennes est située le plus au nord en latitude ?",
+      "options": ["Londres", "Dublin", "Berlin", "Copenhague"],
+      "answer": 3,
+      "explanation": "Copenhague (55° 40′ N) est située plus au nord que Dublin (53° 20′ N), Berlin (52° 31′ N) et Londres (51° 30′ N), presque à la même latitude que Moscou !"
+    },
+    {
+      "id": "geographie-023",
+      "difficulty": 8,
+      "question": "Quel pays africain, autrefois appelé Abyssinie, est le seul du continent (avec le Liberia) à avoir repoussé le partage colonial européen au XIXe siècle ?",
+      "options": ["L’Érythrée", "L’Éthiopie", "La Tanzanie", "Le Ghana"],
+      "answer": 1,
+      "explanation": "L’empereur Ménélik II a infligé une défaite historique à l’armée coloniale italienne lors de la bataille d’Adoua en 1896 (malgré une brève occupation fasciste entre 1936 et 1941)."
+    },
+    {
+      "id": "geographie-024",
+      "difficulty": 8,
+      "question": "Quelle est la chaîne de montagnes continentale la plus longue de la Terre, s’étirant sur plus de 7 000 kilomètres le long de sept pays ?",
+      "options": [
+        "L’Himalaya",
+        "Les Montagnes Rocheuses",
+        "L’Oural",
+        "La cordillère des Andes"
+      ],
+      "answer": 3,
+      "explanation": "Si l’Himalaya détient les sommets les plus hauts, la cordillère des Andes est près de trois fois plus longue (7 100 km contre 2 400 km pour l’Himalaya) et culmine à l’Aconcagua (6 961 m)."
+    },
+    {
+      "id": "geographie-025",
+      "difficulty": 9,
+      "question": "Avec quel pays la France partage-t-elle sa plus longue frontière terrestre continue (730 kilomètres) ?",
+      "options": ["L’Espagne", "Le Brésil", "La Belgique", "L’Allemagne"],
+      "answer": 1,
+      "explanation": "Piège géographique légendaire : grâce à la Guyane française et au fleuve Oyapock, la frontière franco-brésilienne (730 km) dépasse celle avec l’Espagne (623 km) et la Belgique (620 km) !"
+    },
+    {
+      "id": "geographie-026",
+      "difficulty": 9,
+      "question": "Laquelle de ces deux villes nord-américaines est située le plus à l’ouest en longitude : Reno (dans le désert du Nevada) ou Los Angeles (sur la côte pacifique de Californie) ?",
+      "options": [
+        "Los Angeles est nettement plus à l’ouest car elle est au bord de l’océan Pacifique",
+        "Elles sont exactement sur le même méridien (118° Ouest)",
+        "Los Angeles est plus à l’ouest de 400 kilomètres",
+        "Reno est plus à l’ouest que Los Angeles"
+      ],
+      "answer": 3,
+      "explanation": "Contre-intuitif mais vrai : la côte sud de la Californie s’incurve tellement vers l’est que Reno (119° 49′ O), pourtant dans les terres du Nevada, est plus à l’ouest que Los Angeles (118° 14′ O) !"
+    },
+    {
+      "id": "geographie-027",
+      "difficulty": 9,
+      "question": "Combien de fuseaux horaires officiels la Chine utilise-t-elle sur l’ensemble de son immense territoire (qui s’étend pourtant sur près de 5 000 km d’est en ouest) ?",
+      "options": [
+        "Trois fuseaux horaires",
+        "Un seul (l’heure de Pékin, UTC+8)",
+        "Cinq fuseaux horaires",
+        "Sept fuseaux horaires"
+      ],
+      "answer": 1,
+      "explanation": "Depuis 1949, par volonté d’unité nationale, toute la Chine vit à l’heure de Pékin (UTC+8) : dans la province occidentale du Xinjiang, le soleil se lève parfois à 10h du matin en hiver !"
+    },
+    {
+      "id": "geographie-028",
+      "difficulty": 10,
+      "question": "Lorsqu’un navire franchit le canal de Panama de l’océan Atlantique (mer des Caraïbes) vers l’océan Pacifique, dans quelle direction cardinale navigue-t-il en réalité du début à la fin ?",
+      "options": [
+        "D’est en ouest",
+        "Plein nord",
+        "Plein ouest",
+        "Du nord-ouest vers le sud-est (l’entrée côté Pacifique est plus à l’EST que l’entrée côté Atlantique)"
+      ],
+      "answer": 3,
+      "explanation": "À cause de la forme en \"S\" de l’isthme de Panama, l’entrée atlantique (Colón) est située plus à l’OUEST que la sortie pacifique (Panama City) : on va donc vers le sud-est pour rejoindre le Pacifique !"
+    },
+    {
+      "id": "geographie-029",
+      "difficulty": 10,
+      "question": "Quel est le point culminant du continent africain, et quelle est sa particularité géologique ?",
+      "options": [
+        "Le mont Kenya (un plissement alpin)",
+        "Le Kilimandjaro en Tanzanie (5 895 m), constitué de trois volcans éteints ou endormis dont le pic Uhuru",
+        "Le Ras Dashen en Éthiopie",
+        "Le mont Cameroun"
+      ],
+      "answer": 1,
+      "explanation": "Contrairement à l’Everest ou au Mont-Blanc qui font partie de chaînes de collision tectonique, le Kilimandjaro est une montagne isolée formée de trois cônes volcaniques (Kibo, Mawenzi et Shira)."
+    },
+    {
+      "id": "geographie-030",
+      "difficulty": 10,
+      "question": "Quelle île minuscule de 3 000 m² située sur le fleuve Bidassoa entre Hendaye et Irun possède un statut unique au monde : elle change officiellement de souveraineté entre la France et l’Espagne tous les six mois depuis 1659 ?",
+      "options": [
+        "L’île d’Oléron",
+        "L’île de Perejil",
+        "L’île d’Yeu",
+        "L’île des Faisans"
+      ],
+      "answer": 3,
+      "explanation": "Plus petit condominium du monde né du traité des Pyrénées (1659), l’île des Faisans est espagnole du 1er février au 31 juillet, et française du 1er août au 31 janvier !"
+    }
+  ]
+}

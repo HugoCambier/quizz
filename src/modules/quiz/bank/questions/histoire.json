@@ -1,0 +1,325 @@
+{
+  "theme": "histoire",
+  "questions": [
+    {
+      "id": "histoire-001",
+      "difficulty": 1,
+      "question": "En quelle année l'équipe de France de football a-t-elle remporté sa toute première Coupe du monde ?",
+      "options": ["1994", "1998", "2000", "2002"],
+      "answer": 1,
+      "explanation": "Le 12 juillet 1998 au Stade de France, les Bleus d'Aimé Jacquet battent le Brésil 3-0 avec un doublé de Zinédine Zidane et un but d'Emmanuel Petit."
+    },
+    {
+      "id": "histoire-002",
+      "difficulty": 1,
+      "question": "En quelle année les pièces et billets en euros ont-ils été mis en circulation en France ?",
+      "options": ["2002", "1999", "2000", "2004"],
+      "answer": 0,
+      "explanation": "Si l'euro existait sur les marchés financiers dès 1999, c'est le 1er janvier 2002 que les Français ont dit adieu au franc dans leur porte-monnaie."
+    },
+    {
+      "id": "histoire-003",
+      "difficulty": 1,
+      "question": "Quel mur séparant une grande capitale européenne est tombé le 9 novembre 1989 ?",
+      "options": [
+        "Le mur de Varsovie",
+        "Le mur de Vienne",
+        "Le mur de Berlin",
+        "Le mur de Prague"
+      ],
+      "answer": 2,
+      "explanation": "Érigé en 1961, le mur de Berlin a divisé la ville pendant 28 ans avant que sa chute ne précipite la fin de la Guerre froide."
+    },
+    {
+      "id": "histoire-004",
+      "difficulty": 2,
+      "question": "Quel président de la République française a effectué deux mandats consécutifs de 1995 à 2007 ?",
+      "options": [
+        "Jacques Chirac",
+        "François Mitterrand",
+        "Nicolas Sarkozy",
+        "Valéry Giscard d'Estaing"
+      ],
+      "answer": 0,
+      "explanation": "Jacques Chirac a fait un septennat (1995-2002) suivi du tout premier quinquennat (2002-2007) après le référendum de l'an 2000."
+    },
+    {
+      "id": "histoire-005",
+      "difficulty": 2,
+      "question": "Quel pharaon égyptien est devenu célèbre grâce à la découverte de son tombeau quasi intact en 1922 ?",
+      "options": ["Ramsès II", "Khéops", "Toutânkhamon", "Akhenaton"],
+      "answer": 2,
+      "explanation": "Découvert par l'archéologue britannique Howard Carter dans la Vallée des Rois, son masque funéraire en or massif pesait plus de 10 kilos."
+    },
+    {
+      "id": "histoire-006",
+      "difficulty": 2,
+      "question": "Qui a peint « La Joconde » au début du XVIe siècle ?",
+      "options": [
+        "Léonard de Vinci",
+        "Michel-Ange",
+        "Raphaël",
+        "Sandro Botticelli"
+      ],
+      "answer": 0,
+      "explanation": "Léonard de Vinci a emporté le portrait de Mona Lisa dans ses bagages lorsqu'il s'est installé en France à l'invitation du roi François Ier en 1516."
+    },
+    {
+      "id": "histoire-007",
+      "difficulty": 3,
+      "question": "Quelle catastrophe industrielle s'est produite à Toulouse le 21 septembre 2001 ?",
+      "options": [
+        "Le naufrage de l'Erika",
+        "L'incendie du tunnel du Mont-Blanc",
+        "L'explosion de l'usine AZF",
+        "La catastrophe de Furiani"
+      ],
+      "answer": 2,
+      "explanation": "Un stock d'environ 300 tonnes de nitrate d'ammonium a explosé dans l'usine chimique AZF, provoquant une déflagration entendue jusqu'à 80 kilomètres à la ronde."
+    },
+    {
+      "id": "histoire-008",
+      "difficulty": 3,
+      "question": "Quel roi de France était surnommé le « Roi-Soleil » ?",
+      "options": ["Louis XIV", "François Ier", "Henri IV", "Louis XVI"],
+      "answer": 0,
+      "explanation": "Avec plus de 72 ans de règne (1643-1715), Louis XIV détient le record du plus long règne de l'histoire de France et d'Europe pour un monarque souverain."
+    },
+    {
+      "id": "histoire-009",
+      "difficulty": 3,
+      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois lors de la mission Apollo 11 ?",
+      "options": ["1965", "1967", "1969", "1972"],
+      "answer": 2,
+      "explanation": "Dans la nuit du 20 au 21 juillet 1969, Neil Armstrong pose le pied sur la Lune suivi de Buzz Aldrin, tandis que Michael Collins reste en orbite."
+    },
+    {
+      "id": "histoire-010",
+      "difficulty": 4,
+      "question": "Quel traité signé en février 1992 aux Pays-Bas a donné naissance à l'Union européenne et préparé la monnaie unique ?",
+      "options": [
+        "Le traité de Maastricht",
+        "Le traité de Rome",
+        "Le traité de Schengen",
+        "Le traité de Lisbonne"
+      ],
+      "answer": 0,
+      "explanation": "Ratifié de justesse par référendum en France en septembre 1992 (51,04 % de « oui »), le traité de Maastricht a transformé la CEE en Union européenne."
+    },
+    {
+      "id": "histoire-011",
+      "difficulty": 4,
+      "question": "Quelle femme politique et magistrate française a porté la loi légalisant l'interruption volontaire de grossesse (IVG) en 1974 ?",
+      "options": [
+        "Édith Cresson",
+        "Françoise Giroud",
+        "Simone Veil",
+        "Yvette Roudy"
+      ],
+      "answer": 2,
+      "explanation": "Alors ministre de la Santé sous la présidence de Valéry Giscard d'Estaing, Simone Veil a prononcé un discours historique à l'Assemblée nationale le 26 novembre 1974."
+    },
+    {
+      "id": "histoire-012",
+      "difficulty": 4,
+      "question": "Qui a prononcé le célèbre discours « I Have a Dream » à Washington le 28 août 1963 ?",
+      "options": [
+        "Martin Luther King Jr.",
+        "Malcolm X",
+        "Nelson Mandela",
+        "John F. Kennedy"
+      ],
+      "answer": 0,
+      "explanation": "Prononcé devant le Lincoln Memorial devant 250 000 personnes, ce discours est un jalon majeur du mouvement américain des droits civiques."
+    },
+    {
+      "id": "histoire-013",
+      "difficulty": 5,
+      "question": "En quelle année Nelson Mandela a-t-il été élu président de la République d'Afrique du Sud, quatre ans après sa libération de prison ?",
+      "options": ["1990", "1992", "1994", "1996"],
+      "answer": 2,
+      "explanation": "Libéré en février 1990 après 27 ans de détention et prix Nobel de la paix en 1993, Nelson Mandela devient le premier président noir d'Afrique du Sud en mai 1994."
+    },
+    {
+      "id": "histoire-014",
+      "difficulty": 5,
+      "question": "Quel roi de France a signé l'édit de Nantes en 1598 pour mettre fin aux guerres de Religion entre catholiques et protestants ?",
+      "options": ["Henri IV", "François Ier", "Charles IX", "Louis XIII"],
+      "answer": 0,
+      "explanation": "Ancien chef protestant converti au catholicisme (« Paris vaut bien une messe »), Henri IV accorde par cet édit la liberté de culte aux protestants avant qu'il ne soit révoqué par Louis XIV en 1685."
+    },
+    {
+      "id": "histoire-015",
+      "difficulty": 5,
+      "question": "Quel navigateur portugais a dirigé la première expédition maritime à réaliser le tour complet de la Terre (1519-1522), achevée par Juan Sebastián Elcano ?",
+      "options": [
+        "Vasco de Gama",
+        "Bartolomeu Dias",
+        "Fernand de Magellan",
+        "Pedro Álvares Cabral"
+      ],
+      "answer": 2,
+      "explanation": "Magellan a découvert le détroit qui porte son nom au sud du continent américain et a traversé le Pacifique, mais il est mort aux Philippines en 1521 avant le retour en Espagne."
+    },
+    {
+      "id": "histoire-016",
+      "difficulty": 6,
+      "question": "En quelle année le traité de Maastricht, donnant naissance à l’Union européenne et ouvrant la voie à l’euro, a-t-il été signé ?",
+      "options": ["1989", "1995", "1992", "1999"],
+      "answer": 2,
+      "explanation": "Signé le 7 février 1992 aux Pays-Bas, il a été ratifié de justesse en France par référendum en septembre 1992 avec 51,04 % de \"Oui\"."
+    },
+    {
+      "id": "histoire-017",
+      "difficulty": 6,
+      "question": "Quel président de la République française a mis fin au service national militaire obligatoire en 1996 ?",
+      "options": [
+        "Jacques Chirac",
+        "François Mitterrand",
+        "Nicolas Sarkozy",
+        "Valéry Giscard d’Estaing"
+      ],
+      "answer": 0,
+      "explanation": "La suspension de la conscription a concerné tous les Français nés après le 31 décembre 1978, remplacée par la fameuse JAPD (Journée d’appel)."
+    },
+    {
+      "id": "histoire-018",
+      "difficulty": 6,
+      "question": "Quelle brebis écossaise est devenue en 1996 le tout premier mammifère cloné à partir d’une cellule adulte ?",
+      "options": ["Molly", "Polly", "Dolly", "Lassie"],
+      "answer": 2,
+      "explanation": "Née à l’institut Roslin près d’Édimbourg, elle a été baptisée Dolly en hommage malicieux à la chanteuse Dolly Parton, car la cellule provenait d’une glande mammaire."
+    },
+    {
+      "id": "histoire-019",
+      "difficulty": 7,
+      "question": "Quel roi de France a signé l’ordonnance de Villers-Cotterêts en 1539, imposant le français à la place du latin dans tous les actes officiels et administratifs ?",
+      "options": ["François Ier", "Louis XI", "Henri IV", "Louis XIV"],
+      "answer": 0,
+      "explanation": "Plus ancien texte législatif toujours en vigueur en France (articles 110 et 111), il prescrit que les actes soient rédigés \"en langage maternel françois\"."
+    },
+    {
+      "id": "histoire-020",
+      "difficulty": 7,
+      "question": "Lors de la finale de la Coupe du monde 1998 (France-Brésil, 3-0), qui a tiré les deux corners ayant amené les deux buts de la tête de Zinédine Zidane ?",
+      "options": [
+        "Bixente Lizarazu et Laurent Blanc",
+        "Didier Deschamps et Christian Karembeu",
+        "Emmanuel Petit et Youri Djorkaeff",
+        "Thierry Henry et Robert Pirès"
+      ],
+      "answer": 2,
+      "explanation": "Emmanuel Petit frappe le premier corner à droite à la 27e minute, et Youri Djorkaeff frappe le second à gauche à la 45e+1, avant que Petit ne marque le 3e but."
+    },
+    {
+      "id": "histoire-021",
+      "difficulty": 7,
+      "question": "Dans quelle ville de Bosnie-Herzégovine a eu lieu le siège le plus long de l’histoire de la guerre moderne, d’avril 1992 à février 1996 ?",
+      "options": ["Sarajevo", "Mostar", "Srebrenica", "Tuzla"],
+      "answer": 0,
+      "explanation": "Le siège de Sarajevo a duré 1 425 jours, soit un an de plus que le blocus de Leningrad durant la Seconde Guerre mondiale."
+    },
+    {
+      "id": "histoire-022",
+      "difficulty": 8,
+      "question": "Quel physicien et dissident soviétique, \"père\" de la bombe H de l’URSS devenu militant des droits de l’homme, a donné son nom au prix pour la liberté de l’esprit décerné par le Parlement européen ?",
+      "options": [
+        "Alexandre Soljenitsyne",
+        "Igor Kourtchatov",
+        "Andreï Sakharov",
+        "Lev Landau"
+      ],
+      "answer": 2,
+      "explanation": "Prix Nobel de la paix en 1975 alors qu’il était interdit de quitter l’URSS, Andreï Sakharov a inspiré la création du prix Sakharov en 1988."
+    },
+    {
+      "id": "histoire-023",
+      "difficulty": 8,
+      "question": "En quelle année la reine Élisabeth II est-elle montée sur le trône du Royaume-Uni, entamant un règne record de 70 ans ?",
+      "options": ["1952", "1947", "1953", "1956"],
+      "answer": 0,
+      "explanation": "Piège classique : elle est devenue reine le 6 février 1952 à la mort de son père George VI (alors qu’elle était au Kenya), mais son couronnement télévisé a eu lieu en juin 1953."
+    },
+    {
+      "id": "histoire-024",
+      "difficulty": 8,
+      "question": "Quel navigateur portugais a commandé la première expédition à réaliser le tour du monde (1519-1522), bien qu’il ait été tué en route aux Philippines sur l’île de Mactan ?",
+      "options": [
+        "Vasco de Gama",
+        "Bartolomeu Dias",
+        "Fernand de Magellan",
+        "Pedro Álvares Cabral"
+      ],
+      "answer": 2,
+      "explanation": "Sur les cinq navires et 237 hommes partis de Séville avec Magellan, seul le \"Victoria\" commandé par Juan Sebastián Elcano est rentré en Espagne avec 18 survivants."
+    },
+    {
+      "id": "histoire-025",
+      "difficulty": 9,
+      "question": "Quelle guerre éclair d’août 1896 détient le record absolu de la guerre la plus courte de l’histoire mondiale, ayant duré seulement 38 minutes ?",
+      "options": [
+        "La guerre anglo-zanzibarie",
+        "La guerre du football (Salvador-Honduras)",
+        "La guerre des Six Jours",
+        "La guerre du cochon (États-Unis - Royaume-Uni)"
+      ],
+      "answer": 0,
+      "explanation": "Le 27 août 1896, après un ultimatum britannique ignoré par le sultan Khalid bin Barghash, la Royal Navy a bombardé le palais de Zanzibar à 9h02 ; le drapeau blanc a été hissé à 9h40 !"
+    },
+    {
+      "id": "histoire-026",
+      "difficulty": 9,
+      "question": "Dans la nuit du 9 novembre 1989, quelle gaffe d’un porte-parole du parti est-allemand lors d’une conférence de presse télévisée a provoqué la chute immédiate du mur de Berlin ?",
+      "options": [
+        "Il a lu par erreur un discours de Mikhaïl Gorbatchev",
+        "Il a déclaré que les gardes-frontières n’avaient plus de munitions",
+        "Il a annoncé que l’ouverture des frontières prenait effet \"immédiatement, sans délai\"",
+        "Il a annoncé la démission du gouvernement de RDA"
+      ],
+      "answer": 2,
+      "explanation": "Interrogé par un journaliste italien sur la date d’entrée en vigueur des nouveaux visas, Günter Schabowski a fouillé ses notes et lâché : \"Sofort, unverzüglich\" (immédiatement) !"
+    },
+    {
+      "id": "histoire-027",
+      "difficulty": 9,
+      "question": "En quelle année a eu lieu la toute dernière exécution par guillotine en France (celle de Hamida Djandoubi à la prison des Baumettes à Marseille) ?",
+      "options": ["1977", "1968", "1972", "1981"],
+      "answer": 0,
+      "explanation": "Exécuté le 10 septembre 1977 sous la présidence de Valéry Giscard d’Estaing — soit quatre mois APRÈS la sortie du premier film \"Star Wars\" au cinéma !"
+    },
+    {
+      "id": "histoire-028",
+      "difficulty": 10,
+      "question": "Laquelle de ces deux institutions est la plus ancienne : l’université d’Oxford en Angleterre ou l’Empire aztèque fondé autour de Tenochtitlan au Mexique ?",
+      "options": [
+        "L’Empire aztèque est plus ancien de cinq siècles",
+        "Ils ont été fondés la même décennie (1492)",
+        "L’université d’Oxford est plus ancienne de plus de deux siècles",
+        "L’Empire aztèque date de l’Antiquité romaine"
+      ],
+      "answer": 2,
+      "explanation": "Vertige chronologique : l’enseignement à Oxford est attesté dès 1096, alors que la cité de Tenochtitlan n’a été fondée qu’en 1325 et la Triple Alliance aztèque en 1428 !"
+    },
+    {
+      "id": "histoire-029",
+      "difficulty": 10,
+      "question": "Quel célèbre chef d’État français mesurait en réalité environ 1,69 mètre (soit un peu plus que la moyenne des hommes français de son époque), sa réputation de \"petit\" venant d’une confusion entre le pouce français et le pouce anglais ?",
+      "options": ["Napoléon Ier", "Louis XIV", "Charlemagne", "Pépin le Bref"],
+      "answer": 0,
+      "explanation": "Son autopsie à Sainte-Hélène indiquait \"5 pieds 2 pouces\" en mesures françaises de l’Ancien Régime (1,69 m), ce que les caricaturistes britanniques ont traduit en pouces impériaux anglais (1,57 m) !"
+    },
+    {
+      "id": "histoire-030",
+      "difficulty": 10,
+      "question": "Lors de la mission Apollo 11 en juillet 1969, comment Buzz Aldrin et Neil Armstrong ont-ils réparé in extremis le disjoncteur cassé du moteur d’ascension du module lunaire Eagle, sans lequel ils seraient restés bloqués sur la Lune ?",
+      "options": [
+        "Avec du ruban adhésif gris (Duct Tape)",
+        "Avec l’antenne radio de leur casque spatial",
+        "En enfonçant un feutre Fisher Space Pen en plastique dans le trou du disjoncteur pour fermer le circuit sans s’électrocuter",
+        "En faisant fondre une cuillère en argent"
+      ],
+      "answer": 2,
+      "explanation": "En enfilant son volumineux sac à dos de survie, Aldrin avait accidentellement cassé le bouton du disjoncteur d’allumage : son feutre à corps non métallique leur a littéralement sauvé la vie !"
+    }
+  ]
+}

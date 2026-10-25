@@ -1,0 +1,305 @@
+{
+  "theme": "pop-culture",
+  "questions": [
+    {
+      "id": "pop-culture-001",
+      "difficulty": 1,
+      "question": "Dans l'univers Pokémon, quelle est l'évolution directe de Pikachu ?",
+      "options": ["Raichu", "Pichu", "Électhor", "Voltali"],
+      "answer": 0,
+      "explanation": "Pikachu évolue en Raichu lorsqu'il est exposé à une Pierre Foudre. Pichu est sa pré-évolution apparue en deuxième génération."
+    },
+    {
+      "id": "pop-culture-002",
+      "difficulty": 1,
+      "question": "Comment s'appelait le petit animal virtuel japonais logé dans un œuf en plastique qu'il fallait nourrir pour ne pas qu'il meure ?",
+      "options": ["Furby", "Digimon", "Tamagotchi", "Polly Pocket"],
+      "answer": 2,
+      "explanation": "Lancé par Bandai en 1996, le Tamagotchi a déclenché une telle frénésie qu'il a été interdit dans de nombreuses cours de récréation."
+    },
+    {
+      "id": "pop-culture-003",
+      "difficulty": 1,
+      "question": "Dans l'émission « C'est pas sorcier », qui conduisait le fameux camion blanc ?",
+      "options": ["Fred", "Jamy", "Sabine", "Marcel"],
+      "answer": 3,
+      "explanation": "« Allez, en route Marcel ! » Le chauffeur du Kenworth W900 n'apparaissait jamais à l'écran, ce qui a nourri le mythe pendant 20 ans."
+    },
+    {
+      "id": "pop-culture-004",
+      "difficulty": 2,
+      "question": "Comment s'appellent les trois héroïnes du dessin animé français « Totally Spies! » ?",
+      "options": [
+        "Sam, Clover et Alex",
+        "Bloom, Stella et Flora",
+        "Belle, Bulle et Rebelle",
+        "Prue, Piper et Phoebe"
+      ],
+      "answer": 0,
+      "explanation": "Souvent pris pour un dessin animé américain, Totally Spies! est en réalité une création 100 % française du studio Marathon Media, diffusée dès 2001."
+    },
+    {
+      "id": "pop-culture-005",
+      "difficulty": 2,
+      "question": "Quelle émission de téléréalité présentée par Benjamin Castaldi sur M6 en 2001 a révélé Loana ?",
+      "options": ["Star Academy", "Koh-Lanta", "Loft Story", "Secret Story"],
+      "answer": 2,
+      "explanation": "Lancée le 26 avril 2001 sur M6, Loft Story fut la toute première émission de téléréalité d'enfermement en France, suivie par des millions de téléspectateurs."
+    },
+    {
+      "id": "pop-culture-006",
+      "difficulty": 2,
+      "question": "Sur quelle chaîne de télévision l'émission jeunesse « KD2A » (Carrément Déjanté, Doublement Animé) était-elle diffusée ?",
+      "options": ["France 2", "TF1", "France 3", "M6"],
+      "answer": 0,
+      "explanation": "Diffusée sur France 2 de 2001 à 2009 le mercredi et le samedi matin, KD2A diffusait notamment Code Lyoko, Sabrina l'apprentie sorcière ou Lizzie McGuire."
+    },
+    {
+      "id": "pop-culture-007",
+      "difficulty": 3,
+      "question": "Quel est le nom du superordinateur que Jérémi, Yumi, Ulrich, Odd et Aelita combattent dans « Code Lyoko » ?",
+      "options": ["HAL 9000", "Skynet", "X.A.N.A.", "GLaDOS"],
+      "answer": 2,
+      "explanation": "Dans cette série française culte diffusée dès 2003, les collégiens de Kadic plongent dans le monde virtuel de Lyoko pour désactiver les tours activées par X.A.N.A."
+    },
+    {
+      "id": "pop-culture-008",
+      "difficulty": 3,
+      "question": "Dans l'émission « Fort Boyard », comment s'appelait le personnage muet qui guidait les candidats de cellule en cellule avec ses clés ?",
+      "options": ["Passe-Partout", "La Boule", "Le Père Fouras", "Félindra"],
+      "answer": 0,
+      "explanation": "Incarné par André Bouchet depuis le tout premier épisode en 1990, Passe-Partout détient le record de longévité dans l'émission."
+    },
+    {
+      "id": "pop-culture-009",
+      "difficulty": 3,
+      "question": "Quel duo d'humoristes animait le « Burger Quiz » ou les fausses publicités des « Robins des Bois » et « Kad et Olivier » ? Qui chantait « Kamoulox » ?",
+      "options": [
+        "Éric et Ramzy",
+        "Omar et Fred",
+        "Kad et Olivier",
+        "Chevalier et Laspalès"
+      ],
+      "answer": 2,
+      "explanation": "Kad Merad et Olivier Baroux ont inventé le mythique jeu absurde du « Kamoulox » sur la radio Ouï FM puis sur la chaîne Comédie !"
+    },
+    {
+      "id": "pop-culture-010",
+      "difficulty": 4,
+      "question": "Dans le manga et l'anime « Dragon Ball Z », quel personnage élimine finalement le monstre Cell lors du Cell Game ?",
+      "options": ["Son Gohan", "Son Goku", "Vegeta", "Trunks du futur"],
+      "answer": 0,
+      "explanation": "Après le sacrifice de Son Goku, c'est son fils Son Gohan, premier à atteindre le stade de Super Saiyan 2, qui terrasse Cell avec un Kaméhaméha Père-Fils mémorable."
+    },
+    {
+      "id": "pop-culture-011",
+      "difficulty": 4,
+      "question": "Dans le jeu télévisé « Qui veut gagner des millions ? » présenté par Jean-Pierre Foucault, comment s'appelait le joker permettant d'interroger un proche par téléphone ?",
+      "options": [
+        "L'appel au public",
+        "Le coup de fil en or",
+        "L'appel à un ami",
+        "La ligne de secours"
+      ],
+      "answer": 2,
+      "explanation": "Avec le 50:50 et l'avis du public, « l'appel à un ami » (limité à 30 secondes chrono) faisait partie des trois jokers historiques de l'émission lancée en 2000."
+    },
+    {
+      "id": "pop-culture-012",
+      "difficulty": 4,
+      "question": "Comment s'appelait la série de petits livres à succès écrits par R. L. Stine qui faisait frissonner les enfants dans les années 90 ?",
+      "options": [
+        "Chair de poule",
+        "Fais-moi peur !",
+        "Les Contes de la crypte",
+        "Grand Galop"
+      ],
+      "answer": 0,
+      "explanation": "Avec leurs couvertures illustrées en relief (La Nuit des pantins, Le Masque hanté...), les romans Chair de poule (Goosebumps) se sont vendus à plus de 400 millions d'exemplaires."
+    },
+    {
+      "id": "pop-culture-013",
+      "difficulty": 5,
+      "question": "Dans la saga « Harry Potter », comment s'appellent les quatre créateurs de la Carte du Maraudeur ?",
+      "options": [
+        "Godric, Helga, Rowena et Salazar",
+        "Albus, Gellert, Abelforth et Severus",
+        "Lunard, Queudver, Patmol et Cornedrue",
+        "Fred, George, Lee et Percy"
+      ],
+      "answer": 2,
+      "explanation": "Derrière ces surnoms se cachent Remus Lupin (Lunard), Peter Pettigrew (Queudver), Sirius Black (Patmol) et James Potter, le père de Harry (Cornedrue)."
+    },
+    {
+      "id": "pop-culture-014",
+      "difficulty": 5,
+      "question": "Dans l'émission « Koh-Lanta », comment s'appelle le candidat emblématique surnommé « le chouchou des Français » qui a remporté la 4e saison (2004) mais surtout marqué « Le Retour des Héros » ?",
+      "options": ["Moundir", "Claude Dartois", "Teheiura", "Grégoire"],
+      "answer": 0,
+      "explanation": "Révélé en 2003 (saison 3 à Bocas del Toro) puis devenu légendaire en 2009 pour son cri « Pourquoi être aussi corrompu ?! Aucun honneur ! », Moundir Zoughari est la première grande star de Koh-Lanta."
+    },
+    {
+      "id": "pop-culture-015",
+      "difficulty": 5,
+      "question": "Dans le dessin animé « Hé Arnold ! », quelle particularité physique possède la tête du héros Arnold ?",
+      "options": [
+        "Elle a la forme d'une poire",
+        "Elle est totalement carrée",
+        "Elle a la forme d'un ballon de football américain",
+        "Elle est bleue"
+      ],
+      "answer": 2,
+      "explanation": "Helga Pataki, secrètement amoureuse de lui tout en le martyrisant à l'école, l'appelle d'ailleurs constamment « Tête de ballon de rugby » en VF (« Football Head » en VO) !"
+    },
+    {
+      "id": "pop-culture-016",
+      "difficulty": 6,
+      "question": "Dans l’émission \"C’est pas sorcier\", comment s’appelait le chauffeur du camion-laboratoire, qu’on ne voyait jamais à l’écran ?",
+      "options": ["Marcel", "Robert", "Gérard", "Raymond"],
+      "answer": 0,
+      "explanation": "Fred et Jamy interpellaient toujours le conducteur du fameux Kenworth W900 par la phrase culte : \"Allez Marcel, chauffe !\"."
+    },
+    {
+      "id": "pop-culture-017",
+      "difficulty": 6,
+      "question": "Quelle marque de montres suisses a fait fureur dans les cours de récréation des années 90 avec sa gamme \"Flik Flak\" pour apprendre à lire l’heure ?",
+      "options": ["Tissot", "Casio", "Swatch", "Festina"],
+      "answer": 2,
+      "explanation": "Lancée en 1987 par le groupe Swatch, Flik (l’aiguille des minutes bleue aux longues jambes) et Flak (l’aiguille des heures rouge) ont accompagné toute une génération."
+    },
+    {
+      "id": "pop-culture-018",
+      "difficulty": 6,
+      "question": "Dans le jeu télévisé \"Fort Boyard\", comment s’appelait le personnage muet qui jetait les candidats en prison lorsque le temps de la clepsydre était écoulé ?",
+      "options": ["La Boule", "Passe-Partout", "Félindra", "Monsieur Loyal"],
+      "answer": 0,
+      "explanation": "Incarné par Yves Marchesseau pendant vingt ans (1994-2014), La Boule sonnait aussi le gong au début et à la fin des épreuves."
+    },
+    {
+      "id": "pop-culture-019",
+      "difficulty": 7,
+      "question": "Dans le dessin animé \"Les Zinzins de l’espace\", comment s’appelle l’extraterrestre orange à deux têtes ?",
+      "options": ["Etno", "Gorgious", "Stéréo", "Bud"],
+      "answer": 2,
+      "explanation": "Créé par le studio français Gaumont Multimédia (Xilam) avec une musique générique d’Iggy Pop, Stéréo finissait par disparaître après la saison 1."
+    },
+    {
+      "id": "pop-culture-020",
+      "difficulty": 7,
+      "question": "Dans la saga \"Harry Potter\", quelle est la formule exacte qu’il faut prononcer pour refermer et effacer la Carte du Maraudeur ?",
+      "options": [
+        "Méfait accompli",
+        "Je jure solennellement que mes intentions sont mauvaises",
+        "Nox Maxima",
+        "Oubliettes"
+      ],
+      "answer": 0,
+      "explanation": "En version originale, on l’ouvre avec \"I solemnly swear that I am up to no good\" et on l’efface en tapotant avec sa baguette en disant \"Mischief managed\"."
+    },
+    {
+      "id": "pop-culture-021",
+      "difficulty": 7,
+      "question": "Dans le jeu de société \"Les Loups-Garous de Thiercelieux\" (sorti en 2001), quel personnage possède une potion de vie et une potion de mort utilisables une seule fois par partie ?",
+      "options": ["La Voyante", "Cupidon", "La Sorcière", "La Petite Fille"],
+      "answer": 2,
+      "explanation": "Créé par les Français Philippe des Pallières et Hervé Marly, ce jeu d’ambiance a animé des milliers de soirées étudiantes et colos de vacances."
+    },
+    {
+      "id": "pop-culture-022",
+      "difficulty": 8,
+      "question": "Dans le dessin animé \"Les Mystérieuses Cités d’Or\", comment s’appelle le navire espagnol sur lequel Esteban, Zia et Tao embarquent au départ de Barcelone au tout début de l’aventure ?",
+      "options": ["L’Esperanza", "La Santa María", "Le Solaris", "La Pinta"],
+      "answer": 0,
+      "explanation": "Ils traversent l’Atlantique et le détroit de Magellan à bord de \"L’Esperanza\" commandé par Gomez et Gaspard, avant de découvrir le navire solaire \"Le Solaris\"."
+    },
+    {
+      "id": "pop-culture-023",
+      "difficulty": 8,
+      "question": "Dans la bande dessinée \"XIII\" de Jean Van Hamme et William Vance, quel est le tatouage situé sur la clavicule gauche du héros amnésique ?",
+      "options": [
+        "Un aigle noir bicéphale",
+        "Le code-barres 013",
+        "Le chiffre romain XIII",
+        "Une rose des vents"
+      ],
+      "answer": 2,
+      "explanation": "Inspirée du roman \"La Mémoire dans la peau\" de Robert Ludlum, la série culte débute lorsque le héros échoue blessé par balle avec ce seul tatouage \"XIII\" sur la clavicule."
+    },
+    {
+      "id": "pop-culture-024",
+      "difficulty": 8,
+      "question": "Dans le manga \"Dragon Ball Z\" d’Akira Toriyama, quel personnage venu du futur découpe Freezer en morceaux d’un seul coup d’épée dès son arrivée sur Terre ?",
+      "options": ["Trunks", "Son Gohan", "Végéto", "Tapion"],
+      "answer": 0,
+      "explanation": "Fils de Vegeta et Bulma venu d’un futur apocalyptique ravagé par les cyborgs C-17 et C-18, Trunks sidère tous les téléspectateurs du Club Dorothée en se transformant lui aussi en Super Saiyan."
+    },
+    {
+      "id": "pop-culture-025",
+      "difficulty": 9,
+      "question": "Qui est le producteur français qui a fondé le studio DIC à Tours et co-créé \"Inspecteur Gadget\", \"Les Mystérieuses Cités d’Or\", \"Ulysse 31\" et \"Les Minipouss\" ?",
+      "options": [
+        "Albert Barillé",
+        "René Laloux",
+        "Jean Chalopin",
+        "Michel Ocelot"
+      ],
+      "answer": 2,
+      "explanation": "Jean Chalopin a bâti un empire mondial de l’animation franco-japonaise et franco-américaine dans les années 80 et 90 (tandis qu’Albert Barillé a créé \"Il était une fois... la Vie\")."
+    },
+    {
+      "id": "pop-culture-026",
+      "difficulty": 9,
+      "question": "Dans le film d’animation \"Le Voyage de Chihiro\" (2001) de Hayao Miyazaki, en quel animal sont transformés les parents de Chihiro après avoir dévoré sans autorisation la nourriture des esprits ?",
+      "options": [
+        "En cochons",
+        "En crapauds",
+        "En corbeaux",
+        "En statues de pierre"
+      ],
+      "answer": 0,
+      "explanation": "Sorti en 2001, \"Le Voyage de Chihiro\" est devenu le premier (et longtemps le seul) film d’animation japonais à remporter à la fois l’Ours d’or à Berlin et l’Oscar du meilleur film d’animation."
+    },
+    {
+      "id": "pop-culture-027",
+      "difficulty": 9,
+      "question": "Dans le jeu télévisé \"Burger Quiz\" créé par Alain Chabat et Kader Aoun en 2001 sur Canal+, quel comédien français prêtait sa voix off aux questions et au générique ?",
+      "options": [
+        "Dominique Farrugia",
+        "Jean-Paul Rouve",
+        "Bruno Solo",
+        "Maurice Barthélemy"
+      ],
+      "answer": 2,
+      "explanation": "Peu de gens le reconnaissaient tant il modulait son timbre, mais c’est bien Bruno Solo (\"Monsieur Bruno\") qui assurait la voix off mythique de Burger Quiz dès 2001 !"
+    },
+    {
+      "id": "pop-culture-028",
+      "difficulty": 10,
+      "question": "Dans le premier film \"Toy Story\" (1995), quel code alphanumérique caché apparaît sur la plaque d’immatriculation de la voiture de la mère d’Andy (et dans presque tous les films Pixar) ?",
+      "options": ["A113", "THX 1138", "PXR 95", "B612"],
+      "answer": 0,
+      "explanation": "\"A113\" était le numéro de la salle de classe d’animation au California Institute of the Arts (CalArts) où ont étudié John Lasseter, Brad Bird, Pete Docter et Tim Burton !"
+    },
+    {
+      "id": "pop-culture-029",
+      "difficulty": 10,
+      "question": "Quel est le véritable prénom de \"MacGyver\" (incarné par Richard Dean Anderson), qui a été tenu secret pendant presque toute la série avant d’être révélé dans la dernière saison ?",
+      "options": ["Jack", "Peter", "Angus", "Murdoch"],
+      "answer": 2,
+      "explanation": "Son prénom est Angus MacGyver ! L’acteur et les scénaristes trouvaient ce prénom écossais si ridicule que le héros refusait systématiquement de le prononcer pendant sept saisons."
+    },
+    {
+      "id": "pop-culture-030",
+      "difficulty": 10,
+      "question": "Dans la série animée \"Pokémon\", pourquoi le Pokémon \"Porygon\" n’est-il plus jamais apparu dans un seul épisode depuis le 16 décembre 1997 (plus de 1 200 épisodes de bannissement) ?",
+      "options": [
+        "L’épisode 38 (\"Dennō Senshi Porygon\") a provoqué des crises d’épilepsie chez 685 enfants japonais à cause d’un flash rouge et bleu déclenché en réalité par... Pikachu !",
+        "Son créateur a intenté un procès à Nintendo pour droits d’auteur",
+        "Le nom Porygon était une marque déposée par Sony",
+        "Il ressemblait trop à un monstre de Digimon"
+      ],
+      "answer": 0,
+      "explanation": "Injustice absolue de la pop culture : c’est l’attaque Tonnerre de Pikachu sur des missiles qui a provoqué le clignotement à 12 Hz responsable du \"Pokémon Shock\", mais c’est le pauvre Porygon qui a été banni à vie de l’anime !"
+    }
+  ]
+}

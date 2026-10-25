@@ -1,0 +1,300 @@
+{
+  "theme": "musique",
+  "questions": [
+    {
+      "id": "musique-001",
+      "difficulty": 1,
+      "question": "Quel boys band français chantait « Partir un jour » en 1996 ?",
+      "options": ["Alliage", "Worlds Apart", "2Be3", "G Squad"],
+      "answer": 2,
+      "explanation": "Filip, Adel et Frank, trois amis d'enfance de Longjumeau, ont fait danser toute la France avec cet hymne des années 90."
+    },
+    {
+      "id": "musique-002",
+      "difficulty": 1,
+      "question": "Quelle chanteuse américaine est devenue une star mondiale en 1998 avec « ...Baby One More Time » ?",
+      "options": [
+        "Christina Aguilera",
+        "Avril Lavigne",
+        "Pink",
+        "Britney Spears"
+      ],
+      "answer": 3,
+      "explanation": "Britney Spears avait seulement 16 ans lors de l'enregistrement du titre, dont le clip tourné dans un lycée est devenu iconique."
+    },
+    {
+      "id": "musique-003",
+      "difficulty": 1,
+      "question": "Quel duo français casqué a sorti le tube planétaire « One More Time » en l'an 2000 ?",
+      "options": ["Justice", "Air", "Daft Punk", "Cassius"],
+      "answer": 2,
+      "explanation": "Thomas Bangalter et Guy-Manuel de Homem-Christo ont marqué l'histoire de la French Touch avec l'album Discovery dont est issu ce titre."
+    },
+    {
+      "id": "musique-004",
+      "difficulty": 2,
+      "question": "Quelle jeune chanteuse française a chanté « Moi... Lolita » en l'an 2000, écrit par Mylène Farmer ?",
+      "options": ["Lorie", "Priscilla", "Jenifer", "Alizée"],
+      "answer": 3,
+      "explanation": "Repérée dans l'émission Graines de star, Alizée a connu un succès international phénoménal avec ce titre composé par Laurent Boutonnat."
+    },
+    {
+      "id": "musique-005",
+      "difficulty": 2,
+      "question": "Quel groupe de rap français a marqué l'année 1998 avec le titre épique « La Tribu de Dana » ?",
+      "options": ["IAM", "Manau", "Suprême NTM", "Sniper"],
+      "answer": 1,
+      "explanation": "En mêlant rap et mélodie celtique (« Tri Martolod » d'Alan Stivell), Manau a vendu plus de 1,7 million d'exemplaires de ce single."
+    },
+    {
+      "id": "musique-006",
+      "difficulty": 2,
+      "question": "Quel groupe de rock alternatif américain a sorti l'album « Hybrid Theory » en 2000 avec les titres « In the End » et « Crawling » ?",
+      "options": ["Green Day", "Blink-182", "Evanescence", "Linkin Park"],
+      "answer": 3,
+      "explanation": "Mené par Chester Bennington et Mike Shinoda, Linkin Park a signé avec Hybrid Theory l'album rock le plus vendu du XXIe siècle (plus de 30 millions d'exemplaires)."
+    },
+    {
+      "id": "musique-007",
+      "difficulty": 3,
+      "question": "Qui a remporté la toute première saison de la « Star Academy » sur TF1 en janvier 2002 ?",
+      "options": ["Nolwenn Leroy", "Jenifer", "Élodie Frégé", "Olivia Ruiz"],
+      "answer": 1,
+      "explanation": "À seulement 19 ans, Jenifer Bartoli s'est imposée face à Mario Barravecchia devant près de 12 millions de téléspectateurs."
+    },
+    {
+      "id": "musique-008",
+      "difficulty": 3,
+      "question": "Quel groupe français chantait « Tu m'oublieras » en 1999, devenu un classique absolu des fins de soirée ?",
+      "options": ["Zebda", "Louise Attaque", "Mano Negra", "Larusso"],
+      "answer": 3,
+      "explanation": "Petite subtilité : ce n'est pas un groupe mais la chanteuse Larusso ! Ce tube de 1999 est une adaptation française de « You Will Forget » d'Irma Jackson (1979), déjà reprise par Régine en 1980."
+    },
+    {
+      "id": "musique-009",
+      "difficulty": 3,
+      "question": "Quel groupe de rock français mené par Gaëtan Roussel a sorti son premier album éponyme en 1997 avec « J't'emmène au vent » ?",
+      "options": ["Noir Désir", "Louise Attaque", "Matmatah", "Kyo"],
+      "answer": 1,
+      "explanation": "Avec son violon folk-rock survitaminé et ses 2,8 millions d'exemplaires vendus, le premier album de Louise Attaque reste le disque de rock français le plus vendu de l'histoire."
+    },
+    {
+      "id": "musique-010",
+      "difficulty": 4,
+      "question": "Quel groupe de pop-rock français dirigé par Benoît Poher a connu un immense succès en 2003 avec l'album « Le Chemin » ?",
+      "options": ["Superbus", "BB Brunes", "Indochine", "Kyo"],
+      "answer": 3,
+      "explanation": "Avec les tubes « Le Chemin » (en duo avec Sita), « Dernière Danse » et « Je cours », Kyo a rythmé toutes les boums et tous les lecteurs MP3 de 2003-2004."
+    },
+    {
+      "id": "musique-011",
+      "difficulty": 4,
+      "question": "Quel rappeur américain joue son propre rôle (Jimmy « B-Rabbit » Smith) dans le film « 8 Mile » sorti en 2002 ?",
+      "options": ["50 Cent", "Eminem", "Snoop Dogg", "Dr. Dre"],
+      "answer": 1,
+      "explanation": "La chanson du film, « Lose Yourself », a valu à Eminem l'Oscar de la meilleure chanson originale en 2003 — la toute première fois qu'un titre de rap remportait cette récompense."
+    },
+    {
+      "id": "musique-012",
+      "difficulty": 4,
+      "question": "Quelle chanson du groupe moldave O-Zone est devenue le tube de l'été 2004 avec son refrain « Numa Numa Yei » ?",
+      "options": ["Chihuahua", "Aserejé", "Bomba", "Dragostea Din Tei"],
+      "answer": 3,
+      "explanation": "Chantée en roumain (« L'amour sous les tilleuls »), la chanson est restée numéro 1 du Top 50 en France pendant 15 semaines consécutives à l'été 2004 !"
+    },
+    {
+      "id": "musique-013",
+      "difficulty": 5,
+      "question": "Quel groupe de rap marseillais a sorti en 1997 l'album « L'École du micro d'argent », considéré comme un chef-d'œuvre du rap français ?",
+      "options": ["Fonky Family", "IAM", "Psy 4 de la Rime", "Sniper"],
+      "answer": 1,
+      "explanation": "Enregistré entre Marseille et New York, cet album d'IAM (Akhenaton, Shurik'n, Freeman, Kheops, Imhotep, Kephren) contient « Petit frère », « Demain, c'est loin » et « Nés sous la même étoile »."
+    },
+    {
+      "id": "musique-014",
+      "difficulty": 5,
+      "question": "Quelle chanteuse canadienne a vendu plus de 20 millions d'exemplaires de son album « Let Go » en 2002 avec les titres « Complicated » et « Sk8er Boi » ?",
+      "options": [
+        "Nelly Furtado",
+        "Alanis Morissette",
+        "Shania Twain",
+        "Avril Lavigne"
+      ],
+      "answer": 3,
+      "explanation": "Avec ses cravates portées sur des débardeurs, ses Converse et son eye-liner noir, Avril Lavigne a lancé la mode pop-punk chez tous les ados de 2002."
+    },
+    {
+      "id": "musique-015",
+      "difficulty": 5,
+      "question": "Quel chanteur franco-espagnol, ancien leader de la Mano Negra, a sorti l'album culte « Clandestino » en 1998 ?",
+      "options": ["Sergent Garcia", "Manu Chao", "Cali", "Sanseverino"],
+      "answer": 1,
+      "explanation": "Enregistré avec un studio portable à travers l'Amérique latine, « Clandestino » (avec « Je ne t'aime plus », « Bongo Bong ») s'est écoulé à plus de 3 millions d'exemplaires."
+    },
+    {
+      "id": "musique-016",
+      "difficulty": 6,
+      "question": "Quel groupe de rock alternatif britannique a sorti en 1997 l’album culte \"OK Computer\", contenant les titres \"Paranoid Android\" et \"Karma Police\" ?",
+      "options": ["Oasis", "Blur", "Muse", "Radiohead"],
+      "answer": 3,
+      "explanation": "Mené par Thom Yorke, Radiohead a révolutionné le rock des années 90 avec cet album régulièrement classé parmi les meilleurs disques de l’histoire."
+    },
+    {
+      "id": "musique-017",
+      "difficulty": 6,
+      "question": "Quel duo de rap français composé de Didier Morville et Bruno Lopes a marqué l’année 1998 avec les titres \"Ma Benz\" et \"Seine-Saint-Denis Style\" ?",
+      "options": ["IAM", "Suprême NTM", "Ministère A.M.E.R.", "Lunatic"],
+      "answer": 1,
+      "explanation": "JoeyStarr (Didier Morville) et Kool Shen (Bruno Lopes) y signaient aussi \"Laisse pas traîner ton fils\" et \"That’s My People\"."
+    },
+    {
+      "id": "musique-018",
+      "difficulty": 6,
+      "question": "Dans quelle chanson de 2003 du groupe Kyo retrouve-t-on les paroles : \"On a parcouru le chemin, on a tenu la distance...\" ?",
+      "options": [
+        "Dernière danse",
+        "Je cours",
+        "Je saigne encore",
+        "Le Chemin"
+      ],
+      "answer": 3,
+      "explanation": "Chanté en duo avec la chanteuse néerlandaise Sita, \"Le Chemin\" est l’hymne absolu des années collège des trentenaires."
+    },
+    {
+      "id": "musique-019",
+      "difficulty": 7,
+      "question": "De quel morceau funk de 1979 d’Edwin Birdsong le duo Daft Punk a-t-il tiré le sample principal de son tube \"Harder, Better, Faster, Stronger\" ?",
+      "options": [
+        "Robot Rock",
+        "Cola Bottle Baby",
+        "More Spell on You",
+        "I Love You More"
+      ],
+      "answer": 1,
+      "explanation": "Tout l’album \"Discovery\" (2001) est une prouesse de sampling : \"One More Time\" vient d’Eddie Johns et \"Digital Love\" de George Duke."
+    },
+    {
+      "id": "musique-020",
+      "difficulty": 7,
+      "question": "Quel artiste français a composé et interprété en 1998 la chanson \"La Tribu de Dana\" avec son groupe Manau ?",
+      "options": ["Miossec", "Matmatah", "Louise Attaque", "Martial Tricoche"],
+      "answer": 3,
+      "explanation": "Porté par la boucle de harpe celtique de \"Tri Martolod\" d’Alan Stivell, le single s’est écoulé à plus de 1,7 million d’exemplaires à l’été 1998."
+    },
+    {
+      "id": "musique-021",
+      "difficulty": 7,
+      "question": "Quelle chanteuse canadienne a sorti en 1995 l’album \"Jagged Little Pill\", comprenant le tube \"Ironic\" ?",
+      "options": [
+        "Shania Twain",
+        "Alanis Morissette",
+        "Avril Lavigne",
+        "Nelly Furtado"
+      ],
+      "answer": 1,
+      "explanation": "Avec plus de 33 millions d’exemplaires vendus, l’album d’Alanis Morissette (alors âgée de 21 ans) reste l’un des plus grands succès rock des années 90."
+    },
+    {
+      "id": "musique-022",
+      "difficulty": 8,
+      "question": "Quel trio éphémère de la French Touch se cachait derrière le projet \"Stardust\" qui a signé en 1998 l’unique tube house \"Music Sounds Better with You\" ?",
+      "options": [
+        "Laurent Garnier, Bob Sinclar et Cassius",
+        "Guy-Manuel de Homem-Christo, Étienne de Crécy et Air",
+        "David Guetta, Joachim Garraud et Martin Solveig",
+        "Thomas Bangalter, Alan Braxe et Benjamin Diamond"
+      ],
+      "answer": 3,
+      "explanation": "Malgré des offres de plusieurs millions de dollars de Virgin pour enregistrer un album complet, le trio a refusé afin que ce morceau (samplant Chaka Khan) reste unique."
+    },
+    {
+      "id": "musique-023",
+      "difficulty": 8,
+      "question": "Quel album de Nirvana, enregistré en novembre 1993 à New York quelques mois avant la mort de Kurt Cobain, s’achève sur la reprise déchirante de \"Where Did You Sleep Last Night\" ?",
+      "options": [
+        "In Utero",
+        "MTV Unplugged in New York",
+        "Incesticide",
+        "From the Muddy Banks of the Wishkah"
+      ],
+      "answer": 1,
+      "explanation": "Sorti en novembre 1994, ce concert acoustique entouré de lys blancs et de bougies noires inclut aussi la célèbre reprise de \"The Man Who Sold the World\" de David Bowie."
+    },
+    {
+      "id": "musique-024",
+      "difficulty": 8,
+      "question": "Quelle chanson satirique du trio comique Les Inconnus est restée n°1 du Top 50 pendant quatre semaines en 1991 et leur a valu une Victoire de la musique ?",
+      "options": [
+        "C’est toi que je t’aime",
+        "Isabelle a les yeux bleus",
+        "Vice et Versa",
+        "Auteuil Neuilly Passy (Rap BCBG)"
+      ],
+      "answer": 3,
+      "explanation": "Sorti sur l’album \"Bouleversifiant !\", le rap satirique \"Auteuil Neuilly Passy\" (\"Salut, tu vas bien ?\") parodiait avec génie la jeunesse dorée de l’Ouest parisien."
+    },
+    {
+      "id": "musique-025",
+      "difficulty": 9,
+      "question": "Quelle particularité rythmique inhabituelle caractérise le célèbre morceau de jazz \"Take Five\" (1959) du Dave Brubeck Quartet, composé par Paul Desmond ?",
+      "options": [
+        "Il accélère d’un battement par minute à chaque mesure",
+        "Il est écrit sur une signature rythmique à 5/4 (cinq temps par mesure)",
+        "Il ne comporte que cinq notes différentes du début à la fin",
+        "Le piano joue en 4/4 pendant que la batterie joue en 3/4"
+      ],
+      "answer": 1,
+      "explanation": "D’où son titre \"Take Five\" ! Alors que 99 % de la musique occidentale est en 4/4 ou 3/4, ce morceau en 5/4 est devenu le single de jazz le plus vendu de tous les temps."
+    },
+    {
+      "id": "musique-026",
+      "difficulty": 9,
+      "question": "Quel groupe de trip-hop originaire de Bristol a composé \"Teardrop\" en 1998, morceau devenu mondialement célèbre comme générique de la série \"Dr House\" ?",
+      "options": ["Portishead", "Morcheeba", "Archive", "Massive Attack"],
+      "answer": 3,
+      "explanation": "Extrait de l’album \"Mezzanine\" de Massive Attack, \"Teardrop\" est chanté par Elizabeth Fraser (du groupe Cocteau Twins) sur un rythme inspiré d’un battement de cœur fœtal."
+    },
+    {
+      "id": "musique-027",
+      "difficulty": 9,
+      "question": "Quel morceau de Queen datant de 1975 a connu une seconde jeunesse phénoménale en 1992 grâce à la scène de \"headbanging\" en voiture dans le film \"Wayne’s World\" ?",
+      "options": [
+        "We Will Rock You",
+        "Bohemian Rhapsody",
+        "Don’t Stop Me Now",
+        "Another One Bites the Dust"
+      ],
+      "answer": 1,
+      "explanation": "Sortie quelques mois après le décès de Freddie Mercury, cette scène culte de Mike Myers dans une AMC Pacer a propulsé la chanson à nouveau en tête des classements 17 ans après sa création."
+    },
+    {
+      "id": "musique-028",
+      "difficulty": 10,
+      "question": "Dans la chanson \"Stan\" (2000) d’Eminem, quel titre de 1999 de la chanteuse britannique Dido est samplé pour former le refrain mélancolique sous la pluie ?",
+      "options": ["White Flag", "Here with Me", "Life for Rent", "Thank You"],
+      "answer": 3,
+      "explanation": "Ce titre a tellement marqué la culture populaire que le mot \"stan\" (contraction de \"stalker\" et \"fan\") est entré officiellement dans le dictionnaire Oxford en 2017 !"
+    },
+    {
+      "id": "musique-029",
+      "difficulty": 10,
+      "question": "Lors de l’enregistrement du tube \"Gimme Shelter\" des Rolling Stones en 1969, que s’est-il passé pendant la prise vocale déchirante de la choriste Merry Clayton (qu’on entend à 3 min 02 s pendant que Mick Jagger crie \"Woo!\" en studio) ?",
+      "options": [
+        "Un tremblement de terre a secoué le studio de Los Angeles",
+        "Sa voix s’est brisée sur la note aiguë après avoir été appelée en pleine nuit enceinte et en bigoudis",
+        "Keith Richards a cassé une corde de guitare en plein solo",
+        "Le micro a pris feu à cause d’un court-circuit"
+      ],
+      "answer": 1,
+      "explanation": "Appelée en urgence à minuit, Merry Clayton est venue chanter en peignoir et bigoudis : sur le troisième refrain à pleine puissance, sa voix se brise sur \"Rape, murder!\", provoquant le cri d’admiration spontané de Jagger conservé sur le disque."
+    },
+    {
+      "id": "musique-030",
+      "difficulty": 10,
+      "question": "Quel groupe de rock britannique a inscrit en 1975 un hommage bouleversant à son fondateur Syd Barrett à travers le titre \"Shine On You Crazy Diamond\", dont les initiales forment le mot \"S-Y-D\" ?",
+      "options": ["Led Zeppelin", "The Who", "King Crimson", "Pink Floyd"],
+      "answer": 3,
+      "explanation": "Anecdote hallucinante : le 5 juin 1975 aux studios Abbey Road, alors que Pink Floyd mixait justement \"Shine On You Crazy Diamond\", Syd Barrett (qu’ils n’avaient pas vu depuis 7 ans, devenu chauve et méconnaissable) est entré par hasard dans le studio !"
+    }
+  ]
+}

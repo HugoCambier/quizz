@@ -1,0 +1,335 @@
+{
+  "theme": "gastronomie",
+  "questions": [
+    {
+      "id": "gastronomie-001",
+      "difficulty": 1,
+      "question": "Quel fromage savoyard au lait de vache est l'ingrédient principal de la tartiflette ?",
+      "options": [
+        "Le Reblochon",
+        "Le Comté",
+        "Le Beaufort",
+        "La Tomme de Savoie"
+      ],
+      "answer": 0,
+      "explanation": "La recette de la tartiflette a été popularisée dans les années 1980 par le syndicat interprofessionnel du Reblochon pour relancer ses ventes !"
+    },
+    {
+      "id": "gastronomie-002",
+      "difficulty": 1,
+      "question": "De quelle ville italienne la pizza Margherita est-elle originaire ?",
+      "options": ["Rome", "Milan", "Naples", "Florence"],
+      "answer": 2,
+      "explanation": "Elle a été créée à Naples en 1889 en l'honneur de la reine Marguerite de Savoie, avec les couleurs du drapeau italien : basilic, mozzarella et tomate."
+    },
+    {
+      "id": "gastronomie-003",
+      "difficulty": 1,
+      "question": "Quel spiritueux à base de canne à sucre entre dans la composition du Mojito ?",
+      "options": ["Le rhum blanc", "La vodka", "La tequila", "Le gin"],
+      "answer": 0,
+      "explanation": "Né à Cuba, le Mojito associe rhum blanc, citron vert frais, feuilles de menthe, sucre de canne et eau gazeuse."
+    },
+    {
+      "id": "gastronomie-004",
+      "difficulty": 2,
+      "question": "Quel biscuit rond fourré au chocolat de la marque LU affiche un petit prince coiffé d'une couronne ?",
+      "options": ["Le BN", "Le Choco", "Le Prince", "Le Pépito"],
+      "answer": 2,
+      "explanation": "Incontournable du goûter de 16h30, le biscuit Prince a été créé à Anvers à la fin du XIXe siècle avant de devenir le produit phare de LU."
+    },
+    {
+      "id": "gastronomie-005",
+      "difficulty": 2,
+      "question": "Quel est l'ingrédient de base traditionnellement utilisé pour préparer du houmous ?",
+      "options": [
+        "Le pois chiche",
+        "La lentille corail",
+        "L'aubergine grillée",
+        "Le haricot blanc"
+      ],
+      "answer": 0,
+      "explanation": "En arabe, le mot « houmous » signifie tout simplement « pois chiche ». On le mixe avec du tahini (crème de sésame), de l'ail, du citron et de l'huile d'olive."
+    },
+    {
+      "id": "gastronomie-006",
+      "difficulty": 2,
+      "question": "Dans quelle région française produit-on le cidre, le calvados et le camembert ?",
+      "options": [
+        "La Bretagne",
+        "Les Hauts-de-France",
+        "La Normandie",
+        "Les Pays de la Loire"
+      ],
+      "answer": 2,
+      "explanation": "Ce sont les trois grands emblèmes gastronomiques normands. Le village de Camembert se situe d'ailleurs dans le département de l'Orne."
+    },
+    {
+      "id": "gastronomie-007",
+      "difficulty": 3,
+      "question": "Quel apéritif italien de couleur orange vif est l'ingrédient principal de l'Aperol Spritz avec le Prosecco ?",
+      "options": ["L'Aperol", "Le Campari", "Le Limoncello", "L'Amaretto"],
+      "answer": 0,
+      "explanation": "Créé à Padoue en 1919 à base d'oranges amères, de rhubarbe et de gentiane, l'Aperol (11°) est moins amer et moitié moins alcoolisé que le Campari."
+    },
+    {
+      "id": "gastronomie-008",
+      "difficulty": 3,
+      "question": "Quel plat traditionnel du Sud-Ouest mijote longuement avec des haricots blancs, de la saucisse de Toulouse et du confit de canard ?",
+      "options": [
+        "La garbure",
+        "Le bœuf bourguignon",
+        "Le cassoulet",
+        "La choucroute"
+      ],
+      "answer": 2,
+      "explanation": "Castelnaudary, Carcassonne et Toulouse se disputent depuis des siècles la paternité et la « vraie » recette du cassoulet !"
+    },
+    {
+      "id": "gastronomie-009",
+      "difficulty": 3,
+      "question": "Quel dessert italien dont le nom signifie littéralement « tire-moi vers le haut » (ou « remonte-moi le moral ») est parfumé au café ?",
+      "options": ["Le tiramisu", "La panna cotta", "Le cannolo", "Le sabayon"],
+      "answer": 0,
+      "explanation": "À base de mascarpone, d'œufs, de biscuits cuillère (savoiardi) imbibés de café et de cacao, le tiramisu vient de la région de Trévise en Vénétie."
+    },
+    {
+      "id": "gastronomie-010",
+      "difficulty": 4,
+      "question": "Quel cépage blanc est l'unique cépage autorisé pour produire le vin de Chablis ?",
+      "options": [
+        "Le Sauvignon blanc",
+        "Le Riesling",
+        "Le Chardonnay",
+        "Le Viognier"
+      ],
+      "answer": 2,
+      "explanation": "Bien que situé dans l'Yonne, le vignoble de Chablis fait partie de la Bourgogne viticole et produit des vins blancs secs exclusivement à partir du cépage Chardonnay."
+    },
+    {
+      "id": "gastronomie-011",
+      "difficulty": 4,
+      "question": "Quelle épice très coûteuse, surnommée « l'or rouge », provient des stigmates séchés d'une fleur de crocus ?",
+      "options": ["Le safran", "Le curcuma", "Le paprika", "La cardamome"],
+      "answer": 0,
+      "explanation": "Il faut récolter à la main environ 150 000 fleurs de Crocus sativus pour obtenir un seul kilogramme de safran sec, indispensable à la paella ou à la bouillabaisse."
+    },
+    {
+      "id": "gastronomie-012",
+      "difficulty": 4,
+      "question": "Quelle pâte à tartiner aux noisettes a été créée par le pâtissier italien Pietro Ferrero à Alba dans le Piémont ?",
+      "options": ["Nocciolata", "Ovomaltine", "Nutella", "Banania"],
+      "answer": 2,
+      "explanation": "Après la Seconde Guerre mondiale, face à la pénurie de cacao, Ferrero a ajouté des noisettes du Piémont à sa recette, baptisée « Nutella » en 1964."
+    },
+    {
+      "id": "gastronomie-013",
+      "difficulty": 5,
+      "question": "Dans la classification officielle de 1979 de l'échelle de Scoville, que mesure-t-on exactement ?",
+      "options": [
+        "La force piquante des piments",
+        "L'amertume de la bière (IBU)",
+        "L'acidité du vinaigre balsamique",
+        "La teneur en cacao du chocolat"
+      ],
+      "answer": 0,
+      "explanation": "Inventée par le pharmacologue Wilbur Scoville en 1912, cette échelle mesure la concentration en capsaïcine, la molécule responsable de la sensation de brûlure des piments."
+    },
+    {
+      "id": "gastronomie-014",
+      "difficulty": 5,
+      "question": "Quelle est la différence principale entre un Croque-Monsieur et un Croque-Madame ?",
+      "options": [
+        "Le jambon est remplacé par du saumon",
+        "Il est préparé avec du fromage de chèvre",
+        "Il est surmonté d'un œuf au plat",
+        "Le pain de mie est remplacé par une brioche"
+      ],
+      "answer": 2,
+      "explanation": "Le Croque-Madame tire son nom de l'œuf au plat déposé sur le dessus du pain grillé, qui rappelait la forme des chapeaux portés par les dames au début du XXe siècle."
+    },
+    {
+      "id": "gastronomie-015",
+      "difficulty": 5,
+      "question": "Quel fromage corse à pâte molle, fabriqué à base de lait de brebis ou de chèvre, a été rendu célèbre par une scène explosive dans « L'Enquête corse » ?",
+      "options": ["Le Brocciu", "Le Maroilles", "L'Époisses", "Le Roquefort"],
+      "answer": 0,
+      "explanation": "Le Brocciu est le fromage national corse bénéficiant d'une AOP, tandis que les fromages corses très affinés sont regroupés sous l'appellation « casgiu merzu »."
+    },
+    {
+      "id": "gastronomie-016",
+      "difficulty": 6,
+      "question": "Quel spiritueux à base d’orange entre dans la composition originelle d’un cocktail Margarita avec la tequila et le jus de citron vert ?",
+      "options": [
+        "Le Campari",
+        "Le Triple sec (Cointreau)",
+        "L’Amaretto",
+        "Le Marasquin"
+      ],
+      "answer": 1,
+      "explanation": "Le Cointreau (ou tout bon triple sec) apporte la rondeur d’agrume indispensable pour équilibrer l’acidité du citron vert et le caractère de l’agave."
+    },
+    {
+      "id": "gastronomie-017",
+      "difficulty": 6,
+      "question": "Quel fromage italien à pâte filée, fabriqué traditionnellement dans les Pouilles, renferme un cœur crémeux appelé \"stracciatella\" ?",
+      "options": ["La Ricotta", "La Scamorza", "Le Mascarpone", "La Burrata"],
+      "answer": 3,
+      "explanation": "Créée vers 1920 à Andria pour ne pas gaspiller les chutes de mozzarella mélangées à de la crème fraîche, la burrata est devenue la star des apéros."
+    },
+    {
+      "id": "gastronomie-018",
+      "difficulty": 6,
+      "question": "Dans quelle région viticole française produit-on les vins de Chablis, exclusivement à partir du cépage Chardonnay ?",
+      "options": [
+        "La Vallée de la Loire",
+        "La Bourgogne",
+        "L’Alsace",
+        "Le Bordelais"
+      ],
+      "answer": 1,
+      "explanation": "Situé dans le département de l’Yonne, le vignoble de Chablis constitue la porte d’entrée septentrionale de la Bourgogne viticole."
+    },
+    {
+      "id": "gastronomie-019",
+      "difficulty": 7,
+      "question": "Quelle épice rare provient des stigmates séchés de la fleur de \"Crocus sativus\" et nécessite environ 150 000 fleurs pour produire un seul kilogramme ?",
+      "options": ["La cardamome", "Le curcuma", "Le sumac", "Le safran"],
+      "answer": 3,
+      "explanation": "Surnommé \"l’or rouge\", le safran est récolté exclusivement à la main à l’aube en automne, ce qui en fait l’épice la plus chère du monde."
+    },
+    {
+      "id": "gastronomie-020",
+      "difficulty": 7,
+      "question": "Quel chef français, surnommé le \"Pape de la gastronomie\", a détenu trois étoiles au Guide Michelin sans interruption de 1965 à sa mort en 2018 ?",
+      "options": [
+        "Joël Robuchon",
+        "Paul Bocuse",
+        "Alain Ducasse",
+        "Michel Guérard"
+      ],
+      "answer": 1,
+      "explanation": "Dans son auberge de Collonges-au-Mont-d’Or près de Lyon, Paul Bocuse a créé en 1975 la célèbre soupe aux truffes noires VGE pour Valéry Giscard d’Estaing."
+    },
+    {
+      "id": "gastronomie-021",
+      "difficulty": 7,
+      "question": "Quelle sauce émulsionnée chaude, cousine de la hollandaise, est montée au beurre clarifié avec une réduction de vinaigre, d’échalotes et d’estragon ?",
+      "options": [
+        "La sauce Mornay",
+        "La sauce Gribiche",
+        "La sauce Soubise",
+        "La sauce Béarnaise"
+      ],
+      "answer": 3,
+      "explanation": "Contrairement à son nom, la sauce béarnaise a été inventée en 1837 en région parisienne (au Pavillon Henri IV à Saint-Germain-en-Laye) par le chef Jean-Louis François Collinet."
+    },
+    {
+      "id": "gastronomie-022",
+      "difficulty": 8,
+      "question": "Quel est le cépage rouge unique autorisé pour produire les grands vins rouges de Bourgogne comme la Romanée-Conti, le Gevrey-Chambertin ou le Pommard ?",
+      "options": ["Le Gamay", "Le Pinot Noir", "La Syrah", "Le Cabernet Franc"],
+      "answer": 1,
+      "explanation": "En 1395, le duc Philippe le Hardi a banni le \"très déloyal plant de Gamay\" de la Côte d’Or au profit exclusif du Pinot Noir (le Gamay faisant le bonheur du Beaujolais plus au sud)."
+    },
+    {
+      "id": "gastronomie-023",
+      "difficulty": 8,
+      "question": "En pâtisserie, comment appelle-t-on la crème composée d’une crème pâtissière allégée par l’incorporation de crème fouettée (chantilly) et souvent collée à la gélatine ?",
+      "options": [
+        "La crème mousseline",
+        "La crème chiboust",
+        "La crème frangipane",
+        "La crème diplomate"
+      ],
+      "answer": 3,
+      "explanation": "À ne pas confondre : la mousseline est montée au beurre (pour le fraisier), la chiboust est allégée aux blancs en neige (pour le Saint-Honoré), et la diplomate à la chantilly (pour la tropézienne) !"
+    },
+    {
+      "id": "gastronomie-024",
+      "difficulty": 8,
+      "question": "Quelle réaction chimique entre les sucres et les acides aminés à la cuisson donne sa croûte dorée et ses arômes grillés à une côte de bœuf, au pain ou au café torréfié ?",
+      "options": [
+        "La caramélisation",
+        "La réaction de Maillard",
+        "L’estérification",
+        "La rétrogradation de l’amidon"
+      ],
+      "answer": 1,
+      "explanation": "Découverte par le chimiste français Louis-Camille Maillard en 1912, elle se produit dès 140 °C et diffère de la caramélisation qui n’implique que des sucres."
+    },
+    {
+      "id": "gastronomie-025",
+      "difficulty": 9,
+      "question": "Lors du \"Classement officiel des vins de Bordeaux de 1855\" commandé par Napoléon III, quel est le seul château situé hors du Médoc (dans les Graves) à avoir été classé Premier Grand Cru ?",
+      "options": [
+        "Château Cheval Blanc",
+        "Château Pétrus",
+        "Château Ausone",
+        "Château Haut-Brion"
+      ],
+      "answer": 3,
+      "explanation": "Aux côtés de Lafite, Latour et Margaux (rejoints par Mouton Rothschild en 1973), Haut-Brion (à Pessac) fut le seul non-Médoc distingué (Pétrus est à Pomerol et Cheval Blanc à Saint-Émilion)."
+    },
+    {
+      "id": "gastronomie-026",
+      "difficulty": 9,
+      "question": "D’où provient réellement le \"poivre de Sichuan\", réputé pour sa saveur d’agrume et l’effet légèrement anesthésiant et pétillant qu’il procure sur la langue ?",
+      "options": [
+        "C’est une graine de papaye séchée et fumée au bois de théier",
+        "C’est une baie de la famille des agrumes (Rutacées), et non un vrai poivre",
+        "C’est un bourgeon floral de gingembre sauvage",
+        "C’est l’écorce broyée d’un piment himalayen"
+      ],
+      "answer": 1,
+      "explanation": "Issu du clavalier (Zanthoxylum), cousin des citronniers, il contient du sanshool qui active les récepteurs tactiles de nos lèvres à une fréquence de 50 vibrations par seconde !"
+    },
+    {
+      "id": "gastronomie-027",
+      "difficulty": 9,
+      "question": "D’un point de vue strictement botanique, lequel de ces quatre aliments est un \"vrai fruit\" charnu (une baie) et non un faux-fruit ?",
+      "options": ["La fraise", "La figue", "La pomme", "La banane"],
+      "answer": 3,
+      "explanation": "En botanique, la banane (ainsi que la tomate et l’avocat) est une vraie baie ! Sur une fraise, les vrais fruits sont les petits grains jaunes (les akènes) posés sur le réceptacle rouge."
+    },
+    {
+      "id": "gastronomie-028",
+      "difficulty": 10,
+      "question": "Dans l’échelle de Scoville créée en 1912 pour mesurer la force des piments, quelle molécule chimique précise est responsable de la sensation de brûlure en activant nos récepteurs thermiques TRPV1 ?",
+      "options": [
+        "La pipérine",
+        "La capsaïcine",
+        "L’isothiocyanate d’allyle",
+        "Le menthol"
+      ],
+      "answer": 1,
+      "explanation": "Astuce d’apéro : la capsaïcine est hydrophobe (boire de l’eau ne fait que l’étaler dans la bouche) mais liposoluble — seul un corps gras comme le lait, le fromage ou l’huile permet de la dissoudre !"
+    },
+    {
+      "id": "gastronomie-029",
+      "difficulty": 10,
+      "question": "Pourquoi les bouteilles de vin standard ont-elles une contenance universelle si précise de 75 centilitres (et non d’un litre rond) ?",
+      "options": [
+        "C’était le volume maximal des poumons d’un souffleur de verre au XVIIIe siècle",
+        "Pour correspondre à la ration quotidienne des soldats de Napoléon",
+        "Pour limiter le poids des caisses en bois à 10 kg",
+        "En raison du commerce historique avec les Anglais : 1 barrique bordelaise de 225 litres correspondait à 50 gallons impériaux, soit exactement 300 bouteilles de 0,75 L"
+      ],
+      "answer": 3,
+      "explanation": "La légende du \"souffle du verrier\" est un mythe : au XIXe siècle, pour simplifier les conversions entre le litre français et le gallon impérial anglais (4,546 L), une caisse de 12 bouteilles (9 litres) équivalait à 2 gallons, soit 75 cl par bouteille !"
+    },
+    {
+      "id": "gastronomie-030",
+      "difficulty": 10,
+      "question": "Dans quel pays ont été inventés les \"Fortune Cookies\" (les biscuits chinois de la chance contenant une bandelette de papier divinatoire) ?",
+      "options": [
+        "En Chine sous la dynastie Ming",
+        "Au Japon (puis popularisés en Californie par des immigrants japonais au début du XXe siècle)",
+        "En France à la cour de Louis XV",
+        "Au Royaume-Uni à Hong Kong"
+      ],
+      "answer": 1,
+      "explanation": "Totalement inconnus en Chine traditionnelle, ils sont issus des \"tsujiura senbei\" de la région de Kyoto au XIXe siècle et ont été introduits à San Francisco par Makoto Hagiwara en 1914 !"
+    }
+  ]
+}
