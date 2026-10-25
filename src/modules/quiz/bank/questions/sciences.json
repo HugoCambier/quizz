@@ -1,0 +1,330 @@
+{
+  "theme": "sciences",
+  "questions": [
+    {
+      "id": "sciences-001",
+      "difficulty": 1,
+      "question": "Quelle planète du système solaire est surnommée la « planète rouge » ?",
+      "options": ["Vénus", "Jupiter", "Saturne", "Mars"],
+      "answer": 3,
+      "explanation": "Mars doit sa couleur rougeâtre à l'abondance d'oxyde de fer (de la rouille) présent à sa surface."
+    },
+    {
+      "id": "sciences-002",
+      "difficulty": 1,
+      "question": "Quelle est la formule chimique de la molécule d'eau ?",
+      "options": ["CO2", "H2O", "O2", "NaCl"],
+      "answer": 1,
+      "explanation": "Une molécule d'eau est composée de deux atomes d'hydrogène reliés à un atome d'oxygène."
+    },
+    {
+      "id": "sciences-003",
+      "difficulty": 1,
+      "question": "Quel mammifère marin est le plus grand animal vivant sur Terre aujourd'hui ?",
+      "options": [
+        "Le cachalot",
+        "L'orque",
+        "Le requin-baleine",
+        "La baleine bleue"
+      ],
+      "answer": 3,
+      "explanation": "La baleine bleue peut atteindre 30 mètres de long et peser plus de 150 tonnes : sa langue à elle seule pèse autant qu'un éléphant !"
+    },
+    {
+      "id": "sciences-004",
+      "difficulty": 2,
+      "question": "Combien d'os compte le squelette d'un être humain adulte ?",
+      "options": ["156", "206", "256", "306"],
+      "answer": 1,
+      "explanation": "Un bébé naît avec environ 270 à 300 os, mais plusieurs d'entre eux fusionnent au cours de la croissance pour arriver à 206 à l'âge adulte."
+    },
+    {
+      "id": "sciences-005",
+      "difficulty": 2,
+      "question": "Quel gaz représente environ 78 % de l'air que nous respirons sur Terre ?",
+      "options": [
+        "Le dioxygène",
+        "Le dioxyde de carbone",
+        "L'hydrogène",
+        "Le diazote"
+      ],
+      "answer": 3,
+      "explanation": "Contrairement à une idée reçue, l'air atmosphérique est composé à 78 % de diazote (N2) et seulement à 21 % de dioxygène (O2)."
+    },
+    {
+      "id": "sciences-006",
+      "difficulty": 2,
+      "question": "Quel organe du corps humain produit l'insuline pour réguler le taux de sucre dans le sang ?",
+      "options": ["Le foie", "Le pancréas", "La rate", "Les reins"],
+      "answer": 1,
+      "explanation": "Le pancréas joue un double rôle : il produit des enzymes digestives et sécrète des hormones comme l'insuline et le glucagon."
+    },
+    {
+      "id": "sciences-007",
+      "difficulty": 3,
+      "question": "Quelle planète du système solaire possède le plus grand nombre de lunes connues ?",
+      "options": ["Mars", "Vénus", "Mercure", "Saturne"],
+      "answer": 3,
+      "explanation": "Avec plus de 140 lunes confirmées par l'Union astronomique internationale (dont Titan et Encelade), Saturne devance même Jupiter !"
+    },
+    {
+      "id": "sciences-008",
+      "difficulty": 3,
+      "question": "Quelle unité mesure l'intensité d'un courant électrique ?",
+      "options": ["Le volt", "L'ampère", "Le watt", "L'ohm"],
+      "answer": 1,
+      "explanation": "Nommée en l'honneur du physicien français André-Marie Ampère, elle mesure le débit d'électrons dans un circuit, tandis que le volt mesure la tension."
+    },
+    {
+      "id": "sciences-009",
+      "difficulty": 3,
+      "question": "À quelle vitesse approximative la lumière se déplace-t-elle dans le vide ?",
+      "options": ["3 000 km/s", "30 000 km/s", "150 000 km/s", "300 000 km/s"],
+      "answer": 3,
+      "explanation": "Plus exactement 299 792 458 mètres par seconde : à cette vitesse, la lumière met environ 8 minutes et 20 secondes pour nous parvenir depuis le Soleil."
+    },
+    {
+      "id": "sciences-010",
+      "difficulty": 4,
+      "question": "Quel scientifique britannique a formulé la théorie de l'évolution par la sélection naturelle dans « L'Origine des espèces » (1859) ?",
+      "options": [
+        "Isaac Newton",
+        "Charles Darwin",
+        "Louis Pasteur",
+        "Gregor Mendel"
+      ],
+      "answer": 1,
+      "explanation": "Son voyage de cinq ans à bord du navire HMS Beagle, notamment aux îles Galápagos où il observa les pinsons, fut décisif pour ses travaux."
+    },
+    {
+      "id": "sciences-011",
+      "difficulty": 4,
+      "question": "Quel élément chimique porte le symbole « Au » dans le tableau périodique de Mendeleïev ?",
+      "options": ["L'argent", "L'aluminium", "L'argon", "L'or"],
+      "answer": 3,
+      "explanation": "Le symbole « Au » vient du mot latin « aurum » qui signifie « or » (alors que l'argent a pour symbole « Ag », du latin « argentum »)."
+    },
+    {
+      "id": "sciences-012",
+      "difficulty": 4,
+      "question": "À quelle température exprimée en degrés Celsius l'eau pure gèle-t-elle mais correspond à 32 degrés sur l'échelle américaine ?",
+      "options": [
+        "L'échelle Kelvin",
+        "L'échelle Fahrenheit",
+        "L'échelle Rankine",
+        "L'échelle Réaumur"
+      ],
+      "answer": 1,
+      "explanation": "Sur l'échelle Fahrenheit utilisée aux États-Unis, l'eau gèle à 32 °F et bout à 212 °F (sous pression atmosphérique normale)."
+    },
+    {
+      "id": "sciences-013",
+      "difficulty": 5,
+      "question": "Quel organite présent à l'intérieur de nos cellules est surnommé la « centrale énergétique » de la cellule ?",
+      "options": [
+        "Le ribosome",
+        "L'appareil de Golgi",
+        "Le lysosome",
+        "La mitochondrie"
+      ],
+      "answer": 3,
+      "explanation": "Souvenir incontournable des cours de SVT de lycée : la mitochondrie assure la respiration cellulaire et produit l'ATP, l'énergie indispensable à la cellule !"
+    },
+    {
+      "id": "sciences-014",
+      "difficulty": 5,
+      "question": "À quelle distance approximative de la Terre se trouve la Lune ?",
+      "options": ["38 400 km", "384 400 km", "3 840 000 km", "150 000 000 km"],
+      "answer": 1,
+      "explanation": "À 384 400 km en moyenne, on pourrait aligner côte à côte toutes les autres planètes du système solaire entre la Terre et la Lune ! (150 millions de km correspond à la distance Terre-Soleil)."
+    },
+    {
+      "id": "sciences-015",
+      "difficulty": 5,
+      "question": "Combien de paires de chromosomes possède normalement une cellule humaine (hors cellules reproductrices) ?",
+      "options": ["21 paires", "22 paires", "46 paires", "23 paires"],
+      "answer": 3,
+      "explanation": "L'être humain possède 46 chromosomes au total, organisés en 23 paires (22 paires d'autosomes et 1 paire de chromosomes sexuels XX ou XY)."
+    },
+    {
+      "id": "sciences-016",
+      "difficulty": 6,
+      "question": "Quel organite cellulaire est surnommé la \"centrale énergétique\" de la cellule car il produit l’ATP nécessaire à son fonctionnement ?",
+      "options": [
+        "La mitochondrie",
+        "Le ribosome",
+        "L’appareil de Golgi",
+        "Le lysosome"
+      ],
+      "answer": 0,
+      "explanation": "Particularité fascinante : les mitochondries possèdent leur propre ADN, transmis exclusivement par la mère chez l’être humain."
+    },
+    {
+      "id": "sciences-017",
+      "difficulty": 6,
+      "question": "En physique, quelle planète du système solaire possède la journée (période de rotation sur elle-même) la plus courte, d’environ 9 heures et 55 minutes ?",
+      "options": ["Mercure", "Terre", "Jupiter", "Neptune"],
+      "answer": 2,
+      "explanation": "Bien que géante, Jupiter tourne si vite sur elle-même qu’elle est nettement aplatie aux pôles par la force centrifuge."
+    },
+    {
+      "id": "sciences-018",
+      "difficulty": 6,
+      "question": "Quel gaz constitue à lui seul environ 78 % de l’air sec que nous respirons dans l’atmosphère terrestre ?",
+      "options": [
+        "Le diazote",
+        "Le dioxygène",
+        "Le dioxyde de carbone",
+        "L’argon"
+      ],
+      "answer": 0,
+      "explanation": "Contrairement à une idée reçue fréquente, l’oxygène ne représente que 21 % de l’atmosphère, loin derrière l’azote (78 %)."
+    },
+    {
+      "id": "sciences-019",
+      "difficulty": 7,
+      "question": "Quel élément chimique est le seul métal, avec le mercure, à fondre directement dans la paume de la main (point de fusion à 29,76 °C) ?",
+      "options": ["Le bismuth", "Le tungstène", "Le gallium", "Le titane"],
+      "answer": 2,
+      "explanation": "Solide sur une table à 20 °C, un bloc de gallium fond littéralement dans la main, une expérience classique des cours de chimie."
+    },
+    {
+      "id": "sciences-020",
+      "difficulty": 7,
+      "question": "Quel astronome américain a découvert en 1929 que les galaxies s’éloignent les unes des autres, prouvant ainsi l’expansion de l’Univers ?",
+      "options": [
+        "Edwin Hubble",
+        "Carl Sagan",
+        "Richard Feynman",
+        "Subrahmanyan Chandrasekhar"
+      ],
+      "answer": 0,
+      "explanation": "C’est en son honneur que le célèbre télescope spatial lancé par la NASA et l’ESA en avril 1990 porte le nom de Hubble."
+    },
+    {
+      "id": "sciences-021",
+      "difficulty": 7,
+      "question": "Quelle structure anatomique de l’oreille interne, en forme de coquille d’escargot, transforme les vibrations sonores en signaux nerveux transmis au cerveau ?",
+      "options": [
+        "L’étrier",
+        "La trompe d’Eustache",
+        "La cochlée",
+        "Le tympan"
+      ],
+      "answer": 2,
+      "explanation": "Tapissée de milliers de cellules ciliées microscopiques (qui ne se régénèrent pas après un concert trop bruyant !), la cochlée est l’organe de l’audition."
+    },
+    {
+      "id": "sciences-022",
+      "difficulty": 8,
+      "question": "Pour quelle découverte précise Albert Einstein a-t-il reçu le prix Nobel de physique en 1921 (et non pour la théorie de la relativité) ?",
+      "options": [
+        "L’effet photoélectrique",
+        "Le mouvement brownien",
+        "L’équivalence masse-énergie (E=mc²)",
+        "Les ondes gravitationnelles"
+      ],
+      "answer": 0,
+      "explanation": "Le comité Nobel jugeait encore la relativité trop spéculative en 1921 et a préféré récompenser son explication quantique de l’effet photoélectrique (base des panneaux solaires actuels)."
+    },
+    {
+      "id": "sciences-023",
+      "difficulty": 8,
+      "question": "Quelle particule élémentaire, prédite en 1964 pour expliquer l’origine de la masse, a été officiellement découverte au CERN de Genève le 4 juillet 2012 ?",
+      "options": [
+        "Le neutrino",
+        "Le positron",
+        "Le boson de Higgs",
+        "Le gluon"
+      ],
+      "answer": 2,
+      "explanation": "Détecté grâce au Grand collisionneur de hadrons (LHC) de 27 kilomètres de circonférence, il a valu le prix Nobel de physique 2013 à François Englert et Peter Higgs."
+    },
+    {
+      "id": "sciences-024",
+      "difficulty": 8,
+      "question": "Chez les mammifères, quels sont les deux seuls animaux existants (de l’ordre des monotrèmes) qui pondent des œufs au lieu de donner naissance à des petits vivants ?",
+      "options": [
+        "L’ornithorynque et l’échidné",
+        "Le tatou et le pangolin",
+        "L’opossum et le wombat",
+        "Le kiwi et le tarsier"
+      ],
+      "answer": 0,
+      "explanation": "Après l’éclosion de l’œuf, les femelles ornithorynques et échidnés allaitent pourtant leurs petits grâce à du lait qui perle directement sur la peau de leur abdomen (sans tétines) !"
+    },
+    {
+      "id": "sciences-025",
+      "difficulty": 9,
+      "question": "Quel paradoxe formulé en 1950 par un physicien italien lors d’un déjeuner à Los Alamos se résume par la question : \"Si l’Univers compte des milliards de planètes habitables, où est donc tout le monde ?\"",
+      "options": [
+        "Le paradoxe d’Olbers",
+        "Le paradoxe de Langevin",
+        "Le paradoxe de Fermi",
+        "Le paradoxe de Zénon"
+      ],
+      "answer": 2,
+      "explanation": "Enrico Fermi soulignait la contradiction entre la forte probabilité d’existence de civilisations extraterrestres (équation de Drake) et l’absence totale de preuves ou de contacts."
+    },
+    {
+      "id": "sciences-026",
+      "difficulty": 9,
+      "question": "Quelle espèce animale microscopique d’environ 0,5 mm, surnommée \"ourson d’eau\", est capable de survivre au vide spatial, à -272 °C et à des pressions abyssales grâce à la cryptobiose ?",
+      "options": [
+        "Le tardigrade",
+        "La paramécie",
+        "Le rotifère",
+        "L’hydre d’eau douce"
+      ],
+      "answer": 0,
+      "explanation": "En se déshydratant à 99 % (état de \"tonnelet\"), le tardigrade suspend son métabolisme pendant des décennies et survit même à des doses de rayons X mille fois mortelles pour l’homme."
+    },
+    {
+      "id": "sciences-027",
+      "difficulty": 9,
+      "question": "Combien de temps environ un photon (grain de lumière) met-il pour voyager du Soleil jusqu’à la Terre une fois qu’il a quitté la surface solaire ?",
+      "options": [
+        "1,3 seconde",
+        "42 minutes",
+        "8 minutes et 20 secondes",
+        "24 heures"
+      ],
+      "answer": 2,
+      "explanation": "À 300 000 km/s pour franchir 150 millions de kilomètres, il lui faut 8 min 20 s (contre 1,3 seconde depuis la Lune) ; si le Soleil s’éteignait, nous ne le saurions que 8 minutes plus tard."
+    },
+    {
+      "id": "sciences-028",
+      "difficulty": 10,
+      "question": "Quelle planète du système solaire est en moyenne la plus proche de la Terre dans le temps (lorsqu’on calcule la distance moyenne point par point sur leurs orbites au fil des années) ?",
+      "options": ["Mercure", "Mars", "Vénus", "Jupiter"],
+      "answer": 0,
+      "explanation": "Démontré par les ingénieurs de la NASA en 2019 : comme Vénus et Mars passent la moitié du temps de l’autre côté du Soleil très loin de nous, Mercure (qui reste près du Soleil) est en moyenne la planète la plus proche de la Terre — et de toutes les autres planètes !"
+    },
+    {
+      "id": "sciences-029",
+      "difficulty": 10,
+      "question": "Dans le corps humain adulte, quel est le rapport réel entre le nombre de bactéries (microbiote) et le nombre de nos propres cellules humaines selon les mesures scientifiques modernes ?",
+      "options": [
+        "100 fois plus de bactéries que de cellules humaines",
+        "10 fois moins de bactéries que de cellules humaines",
+        "Un rapport d’environ 1 pour 1 (environ 38 000 milliards de bactéries pour 30 000 milliards de cellules humaines)",
+        "Les bactéries représentent 5 kg du poids corporel"
+      ],
+      "answer": 2,
+      "explanation": "Une étude de référence publiée dans \"Cell\" (Sender et al., 2016) a corrigé le vieux mythe du \"10 fois plus de bactéries\" : nous sommes composés à parts presque égales de cellules humaines (dont 84 % de globules rouges) et de bactéries, pour une masse bactérienne totale d’environ 200 grammes !"
+    },
+    {
+      "id": "sciences-030",
+      "difficulty": 10,
+      "question": "Pourquoi le ciel nocturne est-il noir alors que l’Univers contient des milliards de milliards d’étoiles brillantes dans toutes les directions (le célèbre \"paradoxe d’Olbers\") ?",
+      "options": [
+        "Parce que l’Univers a un âge fini (13,8 milliards d’années) et est en expansion, ce qui décale la lumière des galaxies lointaines vers l’infrarouge invisible",
+        "Parce que les poussières interstellaires absorbent 99 % de la lumière",
+        "Parce que la gravité des trous noirs courbe les rayons lumineux",
+        "Parce que notre atmosphère filtre la lumière stellaire"
+      ],
+      "answer": 0,
+      "explanation": "Si l’Univers était infini, éternel et statique, chaque ligne de visée tomberait sur une étoile et le ciel nocturne serait aussi éblouissant que la surface du Soleil ! Edgar Allan Poe fut le premier à en avoir l’intuition en 1848."
+    }
+  ]
+}

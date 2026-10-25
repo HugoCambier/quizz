@@ -1,0 +1,280 @@
+{
+  "theme": "animaux",
+  "questions": [
+    {
+      "id": "animaux-001",
+      "difficulty": 1,
+      "question": "Quel animal fait « meuh » ?",
+      "options": ["La vache", "Le cochon", "Le mouton", "La chèvre"],
+      "answer": 0,
+      "explanation": "La vache meugle : on dit aussi qu'elle beugle."
+    },
+    {
+      "id": "animaux-002",
+      "difficulty": 1,
+      "question": "Combien de pattes a une araignée ?",
+      "options": ["6", "4", "8", "10"],
+      "answer": 2,
+      "explanation": "Les araignées ont 8 pattes, alors que les insectes n'en ont que 6."
+    },
+    {
+      "id": "animaux-003",
+      "difficulty": 1,
+      "question": "Quel animal porte sa maison sur son dos ?",
+      "options": ["Le lapin", "Le hérisson", "La grenouille", "L'escargot"],
+      "answer": 3,
+      "explanation": "L'escargot peut rentrer tout son corps dans sa coquille pour se protéger."
+    },
+    {
+      "id": "animaux-004",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le bébé de la vache ?",
+      "options": ["Le poulain", "Le veau", "L'agneau", "Le chevreau"],
+      "answer": 1,
+      "explanation": "Le petit de la vache est le veau ; le poulain est le petit de la jument."
+    },
+    {
+      "id": "animaux-005",
+      "difficulty": 1,
+      "question": "Quel animal a une très longue trompe ?",
+      "options": ["L'éléphant", "La girafe", "Le rhinocéros", "L'hippopotame"],
+      "answer": 0,
+      "explanation": "L'éléphant utilise sa trompe pour respirer, boire, sentir et attraper sa nourriture."
+    },
+    {
+      "id": "animaux-006",
+      "difficulty": 1,
+      "question": "De quelle couleur sont les feuilles de la plupart des arbres en été ?",
+      "options": ["Bleues", "Rouges", "Vertes", "Violettes"],
+      "answer": 2,
+      "explanation": "Les feuilles sont vertes grâce à la chlorophylle, qui capte la lumière du soleil."
+    },
+    {
+      "id": "animaux-007",
+      "difficulty": 1,
+      "question": "Quel insecte fabrique du miel ?",
+      "options": ["La guêpe", "La mouche", "Le papillon", "L'abeille"],
+      "answer": 3,
+      "explanation": "Les abeilles fabriquent le miel à partir du nectar qu'elles récoltent dans les fleurs."
+    },
+    {
+      "id": "animaux-008",
+      "difficulty": 1,
+      "question": "Quel animal de la savane a un très long cou ?",
+      "options": ["Le zèbre", "La girafe", "Le lion", "Le buffle"],
+      "answer": 1,
+      "explanation": "Son long cou permet à la girafe de manger les feuilles tout en haut des arbres."
+    },
+    {
+      "id": "animaux-009",
+      "difficulty": 1,
+      "question": "Quel animal coasse au bord de la mare ?",
+      "options": ["La grenouille", "Le canard", "Le poisson", "La tortue"],
+      "answer": 0,
+      "explanation": "La grenouille coasse, surtout le mâle, pour attirer une partenaire."
+    },
+    {
+      "id": "animaux-010",
+      "difficulty": 2,
+      "question": "En quoi se transforme un têtard en grandissant ?",
+      "options": ["En poisson", "En serpent", "En grenouille", "En lézard"],
+      "answer": 2,
+      "explanation": "Le têtard vit dans l'eau, puis il lui pousse des pattes et il devient grenouille."
+    },
+    {
+      "id": "animaux-011",
+      "difficulty": 2,
+      "question": "En quoi se transforme une chenille ?",
+      "options": ["En abeille", "En scarabée", "En libellule", "En papillon"],
+      "answer": 3,
+      "explanation": "La chenille fabrique une chrysalide, d'où sortira un papillon : c'est la métamorphose."
+    },
+    {
+      "id": "animaux-012",
+      "difficulty": 2,
+      "question": "Combien de pattes a un insecte ?",
+      "options": ["6", "8", "4", "10"],
+      "answer": 0,
+      "explanation": "Tous les insectes adultes ont 6 pattes, comme la fourmi ou la coccinelle."
+    },
+    {
+      "id": "animaux-013",
+      "difficulty": 2,
+      "question": "Quel animal dort la tête en bas, accroché par les pieds ?",
+      "options": [
+        "La chouette",
+        "La chauve-souris",
+        "L'écureuil",
+        "Le perroquet"
+      ],
+      "answer": 1,
+      "explanation": "La chauve-souris se suspend par les pattes arrière pour dormir et s'envole en se laissant tomber."
+    },
+    {
+      "id": "animaux-014",
+      "difficulty": 2,
+      "question": "La baleine est-elle un poisson, un reptile, un mammifère ou un amphibien ?",
+      "options": ["Un poisson", "Un reptile", "Un mammifère", "Un amphibien"],
+      "answer": 2,
+      "explanation": "La baleine est un mammifère : elle respire de l'air et allaite son petit."
+    },
+    {
+      "id": "animaux-015",
+      "difficulty": 2,
+      "question": "Que mange surtout le panda géant ?",
+      "options": ["Du bambou", "Des fruits", "Du poisson", "Des insectes"],
+      "answer": 0,
+      "explanation": "Le panda géant passe une grande partie de sa journée à mâcher du bambou."
+    },
+    {
+      "id": "animaux-016",
+      "difficulty": 2,
+      "question": "Quel oiseau ne sait pas voler et vit en Antarctique ?",
+      "options": ["La mouette", "L'albatros", "Le cormoran", "Le manchot"],
+      "answer": 3,
+      "explanation": "Le manchot ne vole pas, mais ses ailes en forme de nageoires en font un excellent nageur."
+    },
+    {
+      "id": "animaux-017",
+      "difficulty": 2,
+      "question": "Quel animal peut changer de couleur ?",
+      "options": ["Le crocodile", "Le caméléon", "La tortue", "Le hérisson"],
+      "answer": 1,
+      "explanation": "Le caméléon change de couleur selon son humeur, la température ou pour communiquer."
+    },
+    {
+      "id": "animaux-018",
+      "difficulty": 2,
+      "question": "Comment s'appelle la maison des abeilles ?",
+      "options": ["Un terrier", "Une fourmilière", "Une ruche", "Un nid"],
+      "answer": 2,
+      "explanation": "Dans la ruche, les abeilles construisent des alvéoles de cire en forme d'hexagone."
+    },
+    {
+      "id": "animaux-019",
+      "difficulty": 3,
+      "question": "Quel est le plus grand animal du monde ?",
+      "options": [
+        "L'éléphant d'Afrique",
+        "Le requin-baleine",
+        "La girafe",
+        "La baleine bleue"
+      ],
+      "answer": 3,
+      "explanation": "La baleine bleue est le plus grand animal ayant jamais existé, plus grande que les dinosaures."
+    },
+    {
+      "id": "animaux-020",
+      "difficulty": 3,
+      "question": "Quel est l'animal terrestre le plus rapide ?",
+      "options": ["Le guépard", "Le lion", "Le lévrier", "Le cheval"],
+      "answer": 0,
+      "explanation": "Le guépard est le champion de vitesse sur terre, mais il ne tient ce rythme que peu de temps."
+    },
+    {
+      "id": "animaux-021",
+      "difficulty": 3,
+      "question": "Que fait la marmotte pendant l'hiver ?",
+      "options": [
+        "Elle migre vers le sud",
+        "Elle hiberne",
+        "Elle construit un barrage",
+        "Elle pond des œufs"
+      ],
+      "answer": 1,
+      "explanation": "La marmotte hiberne dans son terrier : son cœur ralentit et elle vit sur ses réserves de graisse."
+    },
+    {
+      "id": "animaux-022",
+      "difficulty": 3,
+      "question": "Combien de cœurs a une pieuvre ?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 2,
+      "explanation": "La pieuvre a trois cœurs, et son sang est bleu."
+    },
+    {
+      "id": "animaux-023",
+      "difficulty": 3,
+      "question": "Quel mammifère pond des œufs ?",
+      "options": [
+        "Le kangourou",
+        "Le koala",
+        "Le paresseux",
+        "L'ornithorynque"
+      ],
+      "answer": 3,
+      "explanation": "L'ornithorynque pond des œufs, puis allaite ses petits comme les autres mammifères."
+    },
+    {
+      "id": "animaux-024",
+      "difficulty": 3,
+      "question": "Comment respire le dauphin ?",
+      "options": [
+        "Avec des branchies",
+        "Avec des poumons, par un évent",
+        "Par la peau",
+        "Avec ses nageoires"
+      ],
+      "answer": 1,
+      "explanation": "Le dauphin remonte à la surface pour respirer par l'évent, un trou sur le dessus de sa tête."
+    },
+    {
+      "id": "animaux-025",
+      "difficulty": 3,
+      "question": "Comment s'appelle le fruit du chêne ?",
+      "options": ["Le gland", "La châtaigne", "La noisette", "La faine"],
+      "answer": 0,
+      "explanation": "Le gland est le fruit du chêne ; les écureuils et les geais en font des réserves."
+    },
+    {
+      "id": "animaux-026",
+      "difficulty": 4,
+      "question": "Quel conifère perd ses aiguilles en automne ?",
+      "options": ["Le sapin", "Le pin", "Le mélèze", "L'épicéa"],
+      "answer": 2,
+      "explanation": "Le mélèze est un conifère qui jaunit et perd ses aiguilles chaque automne."
+    },
+    {
+      "id": "animaux-027",
+      "difficulty": 4,
+      "question": "Comment s'appelle la fabrication de nourriture par les plantes grâce à la lumière ?",
+      "options": [
+        "La respiration",
+        "La photosynthèse",
+        "La germination",
+        "La pollinisation"
+      ],
+      "answer": 1,
+      "explanation": "Grâce à la photosynthèse, les plantes utilisent la lumière, l'eau et le gaz carbonique et rejettent de l'oxygène."
+    },
+    {
+      "id": "animaux-028",
+      "difficulty": 4,
+      "question": "Lequel de ces animaux est un marsupial ?",
+      "options": ["Le kangourou", "Le lémurien", "Le tatou", "Le raton laveur"],
+      "answer": 0,
+      "explanation": "Les marsupiaux, comme le kangourou, portent leur petit dans une poche sur le ventre."
+    },
+    {
+      "id": "animaux-029",
+      "difficulty": 4,
+      "question": "À quel groupe d'animaux appartient l'araignée ?",
+      "options": [
+        "Les insectes",
+        "Les crustacés",
+        "Les reptiles",
+        "Les arachnides"
+      ],
+      "answer": 3,
+      "explanation": "L'araignée est un arachnide, comme le scorpion et l'acarien, et non un insecte."
+    },
+    {
+      "id": "animaux-030",
+      "difficulty": 4,
+      "question": "Quel oiseau est capable de voler en marche arrière ?",
+      "options": ["L'aigle", "Le moineau", "Le colibri", "Le pic-vert"],
+      "answer": 2,
+      "explanation": "Le colibri bat des ailes si vite qu'il peut faire du surplace et reculer en vol."
+    }
+  ]
+}

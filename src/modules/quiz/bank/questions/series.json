@@ -1,0 +1,335 @@
+{
+  "theme": "series",
+  "questions": [
+    {
+      "id": "series-001",
+      "difficulty": 1,
+      "question": "Quel est le nom du café où se retrouvent toujours Rachel, Monica, Phoebe, Joey, Chandler et Ross dans « Friends » ?",
+      "options": [
+        "MacLaren's Pub",
+        "Central Perk",
+        "Luke's Diner",
+        "Monk's Café"
+      ],
+      "answer": 1,
+      "explanation": "Le Central Perk et son célèbre canapé orange étaient situés au bas de l'immeuble de Monica à Greenwich Village."
+    },
+    {
+      "id": "series-002",
+      "difficulty": 1,
+      "question": "Dans la série « Malcolm », comment s'appelle le père de famille interprété par Bryan Cranston ?",
+      "options": ["Hal", "Reese", "Francis", "Dewey"],
+      "answer": 0,
+      "explanation": "Bien avant d'incarner Walter White dans Breaking Bad, Bryan Cranston a marqué toute une génération dans le rôle du père fantasque Hal."
+    },
+    {
+      "id": "series-003",
+      "difficulty": 1,
+      "question": "Dans « Les Simpson », quelle est la boisson préférée d'Homer ?",
+      "options": [
+        "Le Buzz Cola",
+        "La bière Duff",
+        "Le Flaming Moe",
+        "Le Squishee"
+      ],
+      "answer": 1,
+      "explanation": "Homer boit sa bière Duff au bar de Moe à Springfield. Le nom a inspiré plusieurs brasseries réelles à travers le monde."
+    },
+    {
+      "id": "series-004",
+      "difficulty": 2,
+      "question": "Dans quelle ville californienne fictive se déroule la série « Buffy contre les vampires » ?",
+      "options": ["Smallville", "Capeside", "Sunnydale", "Tree Hill"],
+      "answer": 2,
+      "explanation": "Le lycée de Sunnydale est construit juste au-dessus de la « Bouche de l'Enfer », ce qui attire vampires et démons en tous genres."
+    },
+    {
+      "id": "series-005",
+      "difficulty": 2,
+      "question": "Quelle série française créée par Alexandre Astier en 2005 revisite avec humour la quête du Graal ?",
+      "options": ["Kaamelott", "Caméra Café", "Un gars, une fille", "H"],
+      "answer": 0,
+      "explanation": "Avec ses répliques cultes (« C'est pas faux », « Le gras, c'est la vie »), Kaamelott est devenue un pilier absolu de l'humour francophone."
+    },
+    {
+      "id": "series-006",
+      "difficulty": 2,
+      "question": "Comment s'appelle la rue résidentielle où vivent Bree, Gabrielle, Lynette et Susan dans « Desperate Housewives » ?",
+      "options": [
+        "Melrose Place",
+        "Evergreen Terrace",
+        "Wisteria Lane",
+        "Sunset Boulevard"
+      ],
+      "answer": 2,
+      "explanation": "Le décor de Wisteria Lane, situé dans la ville fictive de Fairview, se trouve en réalité dans les studios Universal à Hollywood."
+    },
+    {
+      "id": "series-007",
+      "difficulty": 3,
+      "question": "Comment s'appelle le démon incarné par Julian McMahon dont Phoebe tombe amoureuse dans « Charmed » ?",
+      "options": ["Cole Turner (Balthazar)", "Leo Wyatt", "Angel", "Spike"],
+      "answer": 0,
+      "explanation": "Mi-humain mi-démon, le procureur Cole Turner (alias Balthazar) a formé avec Phoebe Halliwell l'un des couples les plus tourmentés des séries des années 2000."
+    },
+    {
+      "id": "series-008",
+      "difficulty": 3,
+      "question": "Quel numéro de vol de la compagnie Oceanic Airlines s'écrase sur l'île mystérieuse au début de la série « Lost » ?",
+      "options": ["Vol 747", "Vol 180", "Vol 815", "Vol 404"],
+      "answer": 2,
+      "explanation": "Le vol Oceanic 815 reliait Sydney à Los Angeles. Les chiffres 8 et 15 font d'ailleurs partie de la fameuse suite maudite de la série : 4, 8, 15, 16, 23, 42."
+    },
+    {
+      "id": "series-009",
+      "difficulty": 3,
+      "question": "Dans « Prison Break », où Michael Scofield s'est-il fait cacher les plans de la prison de Fox River ?",
+      "options": [
+        "Dans un tatouage sur tout le torse",
+        "Dans la semelle de ses chaussures",
+        "Dans une bible creusée",
+        "Sur une clé USB avalée"
+      ],
+      "answer": 0,
+      "explanation": "Ingénieur en génie civil ayant participé à la rénovation de la prison, Michael Scofield a dissimulé les plans dans une immense fresque gothique tatouée sur le haut de son corps."
+    },
+    {
+      "id": "series-010",
+      "difficulty": 4,
+      "question": "Dans « How I Met Your Mother », quel objet de couleur jaune permet à Ted Mosby de rencontrer enfin la mère de ses enfants ?",
+      "options": [
+        "Un cor français",
+        "Un ananas",
+        "Un parapluie",
+        "Une paire de bottes"
+      ],
+      "answer": 2,
+      "explanation": "Le parapluie jaune de Tracy McConnell traverse plusieurs saisons de la série, tandis que le cor français bleu était le symbole de son histoire avec Robin."
+    },
+    {
+      "id": "series-011",
+      "difficulty": 4,
+      "question": "Dans « Un dos tres » (Un paso adelante), dans quelle ville espagnole se trouve l'école des arts de la scène de Carmen Arranz ?",
+      "options": ["Madrid", "Barcelone", "Séville", "Valence"],
+      "answer": 0,
+      "explanation": "Diffusée en boucle sur M6 dès 2004, la série espagnole suivait Lola, Pedro, Roberto, Ingrid et Silvia à Madrid."
+    },
+    {
+      "id": "series-012",
+      "difficulty": 4,
+      "question": "Dans « Les Frères Scott » (One Tree Hill), quel sport pratiquent Lucas et Nathan Scott au lycée ?",
+      "options": [
+        "Le football américain",
+        "Le baseball",
+        "Le basket-ball",
+        "La natation"
+      ],
+      "answer": 2,
+      "explanation": "Les deux demi-frères ennemis puis complices portent le maillot des « Ravens » de Tree Hill sur les terrains de basket de Caroline du Nord."
+    },
+    {
+      "id": "series-013",
+      "difficulty": 5,
+      "question": "Dans « Friends », quel est le véritable métier de Chandler Bing pendant la majeure partie de la série (que personne ne retient jamais) ?",
+      "options": [
+        "Analyse statistique et reconfiguration de données",
+        "Comptable dans une banque d'investissement",
+        "Courtier en assurances maritimes",
+        "Contrôleur fiscal pour l'État de New York"
+      ],
+      "answer": 0,
+      "explanation": "Rachel est tellement incapable de retenir son métier qu'elle répond « Transponster ! » lors du mythique quiz qui leur fait perdre leur appartement au profit de Joey et Chandler."
+    },
+    {
+      "id": "series-014",
+      "difficulty": 5,
+      "question": "Dans « Game of Thrones », quelle est la devise officielle de la Maison Lannister (à ne pas confondre avec son dicton populaire) ?",
+      "options": [
+        "Un Lannister paie toujours ses dettes",
+        "Le lion ne s'associe pas avec le cafard",
+        "Je rugis (Hear Me Roar)",
+        "Feu et Sang"
+      ],
+      "answer": 2,
+      "explanation": "Si tout le monde connaît le dicton « Un Lannister paie toujours ses dettes », la véritable devise officielle sur le blason de Castral Roc est « Je rugis ! » (Hear Me Roar!)."
+    },
+    {
+      "id": "series-015",
+      "difficulty": 5,
+      "question": "Dans « Breaking Bad », sous quel pseudonyme tiré d'un célèbre physicien allemand Walter White se fait-il appeler dans le milieu de la drogue ?",
+      "options": ["Heisenberg", "Schrödinger", "Oppenheimer", "Planck"],
+      "answer": 0,
+      "explanation": "Walter White choisit le nom de Werner Heisenberg, prix Nobel de physique 1932 et père du fameux « principe d'incertitude » en mécanique quantique."
+    },
+    {
+      "id": "series-016",
+      "difficulty": 6,
+      "question": "Dans \"Friends\", quel est le métier de Chandler Bing que ses propres amis sont incapables de retenir (notamment lors du fameux quiz de Ross) ?",
+      "options": [
+        "Courtier en assurances maritimes",
+        "Auditeur fiscal international",
+        "Analyse statistique et reconfiguration de données",
+        "Directeur des achats publicitaires"
+      ],
+      "answer": 2,
+      "explanation": "Rachel invente le mot \"transponster\" lors du jeu pour gagner l’appartement des filles, faisant perdre le pari à Monica et Rachel !"
+    },
+    {
+      "id": "series-017",
+      "difficulty": 6,
+      "question": "Dans \"Kaamelott\", comment s’appelle le père adoptif de Perceval, paysan gallois régulièrement évoqué pour ses maximes absurdes ?",
+      "options": ["Pellinor", "Cadoc", "Kadoc", "Urgan"],
+      "answer": 0,
+      "explanation": "Attention au piège : Kadoc est le frère de Karadoc ! Le père de Perceval de Galles s’appelle bien Pellinor."
+    },
+    {
+      "id": "series-018",
+      "difficulty": 6,
+      "question": "Dans \"Buffy contre les vampires\", comment s’appelle la petite ville californienne fictive construite juste au-dessus de la \"Bouche de l’Enfer\" ?",
+      "options": ["Smallville", "Mystic Falls", "Sunnydale", "Riverdale"],
+      "answer": 2,
+      "explanation": "Le lycée de Sunnydale (Sunnydale High) abritait dans sa bibliothèque le portail démoniaque surveillé par l’Observateur Rupert Giles."
+    },
+    {
+      "id": "series-019",
+      "difficulty": 7,
+      "question": "Dans la série \"Lost : Les Disparus\", quelle est la suite exacte des six nombres maudits que Hurley joue au loto et qu’il faut saisir dans le bunker ?",
+      "options": [
+        "4, 8, 15, 16, 23, 42",
+        "3, 7, 14, 18, 25, 40",
+        "4, 9, 15, 16, 24, 48",
+        "5, 8, 13, 21, 34, 55"
+      ],
+      "answer": 0,
+      "explanation": "Dans la mythologie de la série, ces nombres correspondent à l’équation de Valenzetti et aux numéros attribués par Jacob aux candidats finaux."
+    },
+    {
+      "id": "series-020",
+      "difficulty": 7,
+      "question": "Dans \"Malcolm\" (Malcolm in the Middle), quel est le prénom du fils aîné rebelle qui est envoyé à l’école militaire de l’académie Marlin ?",
+      "options": ["Reese", "Dewey", "Francis", "Jamie"],
+      "answer": 2,
+      "explanation": "Interprété par Christopher Masterson, Francis affronte d’abord le commandant Spangler avant de partir travailler en Alaska puis dans le ranch d’Otto."
+    },
+    {
+      "id": "series-021",
+      "difficulty": 7,
+      "question": "Dans \"Breaking Bad\", quel pseudonyme Walter White emprunte-t-il au monde de la physique quantique lorsqu’il bâtit son empire criminel ?",
+      "options": ["Heisenberg", "Schrödinger", "Oppenheimer", "Planck"],
+      "answer": 0,
+      "explanation": "Référence à Werner Heisenberg et à son célèbre principe d’incertitude : plus le professeur de chimie devient puissant, plus son destin devient imprévisible."
+    },
+    {
+      "id": "series-022",
+      "difficulty": 8,
+      "question": "Dans \"Game of Thrones\", comment s’appelle l’épée en acier valyrien que Jeor Mormont offre à Jon Snow à Châteaunoir ?",
+      "options": [
+        "Glace (Ice)",
+        "Féale (Oathkeeper)",
+        "Grand-Griffe (Longclaw)",
+        "Aiguille (Needle)"
+      ],
+      "answer": 2,
+      "explanation": "Jon Snow avait auparavant offert \"Aiguille\" à sa demi-sœur Arya Stark ; \"Grand-Griffe\" était l’épée ancestrale de la maison Mormont de l’Île-aux-Ours."
+    },
+    {
+      "id": "series-023",
+      "difficulty": 8,
+      "question": "Dans \"The Office\" (version US), comment s’appelle la ferme de betteraves que dirige Dwight Schrute avec son étrange cousin Mose ?",
+      "options": [
+        "Schrute Farms",
+        "Dunder Farms",
+        "Lackawanna Acres",
+        "Vance Refrigeration Ranch"
+      ],
+      "answer": 0,
+      "explanation": "Dwight y propose même des chambres d’hôtes thématiques (\"Irrigation\", \"America\" et \"Nighttime\") où il lit \"Harry Potter\" aux clients avant de dormir."
+    },
+    {
+      "id": "series-024",
+      "difficulty": 8,
+      "question": "Dans \"Les Soprano\" (The Sopranos), quel animal vivant dans la piscine de sa villa du New Jersey déclenche la toute première crise de panique de Tony Soprano ?",
+      "options": [
+        "Un raton laveur",
+        "Un ours noir",
+        "Une famille de canards",
+        "Une carpe koï"
+      ],
+      "answer": 2,
+      "explanation": "C’est l’envol de ces canards sauvages qui provoque son évanouissement lors d’un barbecue et le pousse à consulter secrètement la psychiatre Jennifer Melfi."
+    },
+    {
+      "id": "series-025",
+      "difficulty": 9,
+      "question": "Dans la série \"Twin Peaks\" (1990) de David Lynch et Mark Frost, quelle réplique culte prononce Pete Martell au téléphone lorsqu’il découvre le corps de Laura Palmer au bord de l’eau ?",
+      "options": [
+        "Elle est morte... enveloppée dans du plastique",
+        "Qui a tué Laura Palmer ?",
+        "Les hiboux ne sont pas ce qu’ils semblent être",
+        "Ce café est damnément bon"
+      ],
+      "answer": 0,
+      "explanation": "\"She’s dead... wrapped in plastic.\" Cette phrase prononcée par Jack Nance au téléphone avec le shérif Truman a ouvert l’âge d’or des séries télévisées modernes."
+    },
+    {
+      "id": "series-026",
+      "difficulty": 9,
+      "question": "Dans la série \"The Wire\" (Sur écoute), quel est le surnom du braqueur de trafiquants de drogue à Baltimore qui siffle la comptine \"The Farmer in the Dell\" en approchant avec son fusil à pompe ?",
+      "options": [
+        "Stringer Bell",
+        "Avon Barksdale",
+        "Omar Little",
+        "Marlo Stanfield"
+      ],
+      "answer": 2,
+      "explanation": "Incarné par le regretté Michael K. Williams, Omar Little obéissait à un code d’honneur strict (\"A man got to have a code\") et ne braquait jamais un citoyen ordinaire."
+    },
+    {
+      "id": "series-027",
+      "difficulty": 9,
+      "question": "Dans \"Les Simpson\", que s’affiche-t-il réellement sur la caisse enregistreuse dans le générique d’ouverture lorsque bébé Maggie est scannée au supermarché (dans les saisons historiques) ?",
+      "options": [
+        "847,63 $ (le coût mensuel moyen pour élever un bébé aux États-Unis en 1989)",
+        "NRA4EVER",
+        "420,00 $",
+        "DO-IT-FOR-HER"
+      ],
+      "answer": 0,
+      "explanation": "L’écran affiche exactement \"$847.63\" ! Le message \"NRA4EVER\" n’apparaît que dans un seul épisode spécial (le 138e épisode) pour se moquer des rumeurs sur ce détail."
+    },
+    {
+      "id": "series-028",
+      "difficulty": 10,
+      "question": "Dans la série \"Chernobyl\" (HBO) comme dans la réalité historique d’avril 1986, quelle était la valeur maximale que pouvaient afficher les petits dosimètres standards de la centrale, faisant croire à tort que la fuite était minime ?",
+      "options": [
+        "15,0 roentgens par heure",
+        "100 millisieverts",
+        "3,6 roentgens par heure",
+        "42 becquerels"
+      ],
+      "answer": 2,
+      "explanation": "La réplique \"3.6 roentgen... not great, not terrible\" est devenue culte : en réalité, les niveaux autour du cœur éventré dépassaient 15 000 roentgens par heure !"
+    },
+    {
+      "id": "series-029",
+      "difficulty": 10,
+      "question": "Dans la série \"Columbo\", comment s’appelle le vieux chien basset hound apathique du lieutenant Columbo ?",
+      "options": ["Le Chien (Dog)", "Barnaby", "Hercule", "Inspecteur"],
+      "answer": 0,
+      "explanation": "N’arrivant pas à se décider sur un nom, Columbo l’appelle tout simplement \"Le Chien\" (\"Dog\" en VO) ! Quant à sa femme dont il parle dans chaque épisode, elle n’apparaît jamais à l’écran."
+    },
+    {
+      "id": "series-030",
+      "difficulty": 10,
+      "question": "Quel est le sens caché du titre de l’épisode final de \"Breaking Bad\", intitulé \"Felina\" (Saison 5, Épisode 16) ?",
+      "options": [
+        "C’est le nom de jeune fille de la mère de Jesse Pinkman",
+        "C’est le nom d’une ville frontalière du Nouveau-Mexique",
+        "C’est l’anagramme de \"Finale\", le prénom de l’héroïne de la chanson \"El Paso\" de Marty Robbins, et les symboles Fe (Fer), Li (Lithium) et Na (Sodium)",
+        "C’est le nom du chat de Vince Gilligan"
+      ],
+      "answer": 2,
+      "explanation": "Dans l’épisode, Walter White démarre une voiture volée sous la neige avec dans l’autoradio la cassette \"El Paso\" de Marty Robbins, où un cow-boy hors-la-loi revient mourir pour son amour nommé Feleena."
+    }
+  ]
+}

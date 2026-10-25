@@ -1,0 +1,320 @@
+{
+  "theme": "jeux-video",
+  "questions": [
+    {
+      "id": "jeux-video-001",
+      "difficulty": 1,
+      "question": "Quel est le prénom du frère de Mario, vêtu d'une salopette et d'une casquette vertes ?",
+      "options": ["Wario", "Waluigi", "Yoshi", "Luigi"],
+      "answer": 3,
+      "explanation": "Luigi est apparu pour la première fois en 1983 dans le jeu d'arcade Mario Bros. Il est plus grand et saute plus haut que son frère."
+    },
+    {
+      "id": "jeux-video-002",
+      "difficulty": 1,
+      "question": "Dans « Mario Kart », quel objet réputé impitoyable traque et fait exploser le joueur situé en première position ?",
+      "options": [
+        "La carapace rouge",
+        "La carapace bleue à épines",
+        "Le champignon doré",
+        "La peau de banane"
+      ],
+      "answer": 1,
+      "explanation": "Apparue dans Mario Kart 64, la carapace bleue à épines a brisé d'innombrables amitiés à quelques mètres de la ligne d'arrivée."
+    },
+    {
+      "id": "jeux-video-003",
+      "difficulty": 1,
+      "question": "Quel jeu PC créé par Will Wright en 2000 permet de créer une maison et de gérer la vie quotidienne d'êtres virtuels ?",
+      "options": [
+        "RollerCoaster Tycoon",
+        "Age of Empires",
+        "Theme Hospital",
+        "Les Sims"
+      ],
+      "answer": 3,
+      "explanation": "Qui n'a jamais retiré l'échelle de la piscine ou utilisé le code « rosebud » / « motherlode » pour devenir millionnaire dans Les Sims ?"
+    },
+    {
+      "id": "jeux-video-004",
+      "difficulty": 2,
+      "question": "Dans les jeux Pokémon Rouge et Bleu, quel est le trio de Pokémon de départ proposé par le Professeur Chen ?",
+      "options": [
+        "Germignon, Héricendre et Kaiminus",
+        "Bulbizarre, Salamèche et Carapuce",
+        "Arcko, Poussifeu et Gobou",
+        "Tortipouss, Ouisticram et Tiplouf"
+      ],
+      "answer": 1,
+      "explanation": "Choisir entre Bulbizarre (Plante), Salamèche (Feu) et Carapuce (Eau) fut le premier grand dilemme moral des enfants nés dans les années 90."
+    },
+    {
+      "id": "jeux-video-005",
+      "difficulty": 2,
+      "question": "Quelle console portable de Nintendo dotée de deux écrans, dont un tactile avec stylet, est sortie en Europe en mars 2005 ?",
+      "options": ["Game Boy Advance", "Game Boy Color", "PSP", "Nintendo DS"],
+      "answer": 3,
+      "explanation": "Avec plus de 154 millions d'unités vendues, la Nintendo DS (pour Dual Screen) et ses jeux comme Nintendogs ou Mario Kart DS reste la console portable la plus vendue de l'histoire."
+    },
+    {
+      "id": "jeux-video-006",
+      "difficulty": 2,
+      "question": "Quelle célèbre aventurière de jeu vidéo vit dans un manoir où l'on pouvait enfermer son majordome dans la chambre froide ?",
+      "options": ["Samus Aran", "Lara Croft", "Jill Valentine", "Zelda"],
+      "answer": 1,
+      "explanation": "Dans Tomb Raider II (1997) et III (1998), presque tous les joueurs ont un jour enfermé le pauvre majordome Winston et son plateau à thé qui tremblait dans le frigo du manoir !"
+    },
+    {
+      "id": "jeux-video-007",
+      "difficulty": 3,
+      "question": "Dans « Age of Empires II », quel cri bizarre poussent les prêtres (moines) pour convertir les unités ennemies ?",
+      "options": ["Aléa jacta est", "Hallelujah", "Abracadabra", "Wololo"],
+      "answer": 3,
+      "explanation": "Bien que le cri « Wololo » vienne du premier Age of Empires (1997), il a été conservé comme provocation audio (taunt n°30) dans Age of Empires II et est devenu un mème légendaire."
+    },
+    {
+      "id": "jeux-video-008",
+      "difficulty": 3,
+      "question": "Dans « Grand Theft Auto: San Andreas » (2004), quel est le nom du héros que l'on incarne ?",
+      "options": [
+        "Tommy Vercetti",
+        "Carl « CJ » Johnson",
+        "Niko Bellic",
+        "Trevor Philips"
+      ],
+      "answer": 1,
+      "explanation": "De retour dans son quartier de Grove Street à Los Santos après la mort de sa mère, CJ est resté célèbre pour la phrase « Ah shit, here we go again »."
+    },
+    {
+      "id": "jeux-video-009",
+      "difficulty": 3,
+      "question": "Dans « The Legend of Zelda », comment s'appelle le jeune héros vêtu d'une tunique verte que le joueur contrôle ?",
+      "options": ["Zelda", "Ganondorf", "Tingle", "Link"],
+      "answer": 3,
+      "explanation": "Classique piège : Zelda est le nom de la princesse d'Hyrule, tandis que le héros à l'épée et au bouclier s'appelle Link !"
+    },
+    {
+      "id": "jeux-video-010",
+      "difficulty": 4,
+      "question": "Quel jeu de tir à la première personne (FPS), né en 1999 comme un simple mod de « Half-Life », oppose terroristes et antiterroristes ?",
+      "options": [
+        "Quake III Arena",
+        "Counter-Strike",
+        "Unreal Tournament",
+        "Call of Duty"
+      ],
+      "answer": 1,
+      "explanation": "Créé par deux étudiants, Minh Le et Jess Cliffe, Counter-Strike (version 1.5 et 1.6) a fait les beaux jours des cybercafés et des LAN-parties des années 2000 sur la carte de_dust2."
+    },
+    {
+      "id": "jeux-video-011",
+      "difficulty": 4,
+      "question": "Dans « Pokémon Or et Argent » (2e génération), quel Pokémon légendaire de type Feu et Vol figure sur la jaquette de la version Or ?",
+      "options": ["Lugia", "Sulfura", "Entei", "Ho-Oh"],
+      "answer": 3,
+      "explanation": "Fait amusant : Ho-Oh est apparu dès le tout premier épisode du dessin animé Pokémon en 1997, plus de deux ans avant la sortie des versions Or et Argent !"
+    },
+    {
+      "id": "jeux-video-012",
+      "difficulty": 4,
+      "question": "Dans « Crash Bandicoot », quel masque vaudou flottant protège Crash lorsqu'il brise sa caisse ?",
+      "options": ["Uka Uka", "Aku Aku", "Cortex", "Zuma"],
+      "answer": 1,
+      "explanation": "Son cri ressemblant à « Ooga Booga » (ou « Boulbaga » selon les souvenirs d'enfance !) offrait une invincibilité temporaire quand on en récoltait trois."
+    },
+    {
+      "id": "jeux-video-013",
+      "difficulty": 5,
+      "question": "Dans « World of Warcraft », quel est le nom du continent glacé gouverné par le Roi Liche (Arthas) dans l'extension sortie en 2008 ?",
+      "options": [
+        "Kalimdor",
+        "Les Royaumes de l'Est",
+        "L'Outreterre",
+        "Le Norfendre"
+      ],
+      "answer": 3,
+      "explanation": "L'extension Wrath of the Lich King (2008), qui se déroule en Norfendre (Northrend), marque l'apogée de World of Warcraft avec plus de 12 millions d'abonnés."
+    },
+    {
+      "id": "jeux-video-014",
+      "difficulty": 5,
+      "question": "Dans « Super Smash Bros. Melee » sur GameCube (2001), quel est l'objectif principal pour éjecter un adversaire hors de l'écran ?",
+      "options": [
+        "Vider sa barre de vie verte jusqu'à zéro",
+        "Faire grimper son pourcentage de dégâts",
+        "Collecter 100 pièces d'or",
+        "Lui voler ses trois étoiles"
+      ],
+      "answer": 1,
+      "explanation": "Contrairement aux jeux de combat classiques, Super Smash Bros. utilise une jauge de pourcentage : plus le chiffre est élevé (100 %, 150 %...), plus le personnage vole loin à chaque coup reçu."
+    },
+    {
+      "id": "jeux-video-015",
+      "difficulty": 5,
+      "question": "Quel jeu de réflexion préinstallé sur Windows demandait de déminer une grille de cases grises à l'aide de chiffres et de petits drapeaux rouges ?",
+      "options": [
+        "Freecell",
+        "Pinball 3D Space Cadet",
+        "Dame de Pique",
+        "Le Démineur"
+      ],
+      "answer": 3,
+      "explanation": "Inclus dans Windows dès 1990 (Windows 3.1), le Démineur avait été conçu à l'origine par Microsoft pour apprendre aux utilisateurs à maîtriser le clic gauche et le clic droit de la souris !"
+    },
+    {
+      "id": "jeux-video-016",
+      "difficulty": 6,
+      "question": "Dans \"Pokémon Version Rouge et Bleue\", à quel niveau précis le Magicarpe évolue-t-il enfin en Léviator ?",
+      "options": ["Niveau 20", "Niveau 16", "Niveau 25", "Niveau 30"],
+      "answer": 0,
+      "explanation": "Après avoir subi son attaque inutile \"Trempette\" pendant des heures en le plaçant en tête d’équipe, la patience payait enfin au niveau 20."
+    },
+    {
+      "id": "jeux-video-017",
+      "difficulty": 6,
+      "question": "Dans \"The Legend of Zelda: Ocarina of Time\" sur Nintendo 64, comment s’appelle la petite fée qui accompagne Link en criant \"Hey! Listen!\" ?",
+      "options": ["Tatl", "Midona", "Navi", "Fay"],
+      "answer": 2,
+      "explanation": "Ce fameux \"Hey! Listen!\" de Navi est devenu l’un des effets sonores les plus célèbres (et les plus parodiés) de l’histoire du jeu vidéo."
+    },
+    {
+      "id": "jeux-video-018",
+      "difficulty": 6,
+      "question": "Dans \"Age of Empires II\", quel cri célèbre pousse le moine lorsqu’il tente de convertir une unité ennemie ?",
+      "options": ["Wololo", "Zug Zug", "Fus Ro Dah", "Hadouken"],
+      "answer": 0,
+      "explanation": "À l’origine issu du premier Age of Empires, le cri \"Wololo\" est devenu un mème incontournable et une commande audio dans Age of Empires II."
+    },
+    {
+      "id": "jeux-video-019",
+      "difficulty": 7,
+      "question": "Dans \"Grand Theft Auto: San Andreas\" (2004), quel célèbre acteur américain prête sa voix au policier corrompu Frank Tenpenny en version originale ?",
+      "options": [
+        "Morgan Freeman",
+        "Laurence Fishburne",
+        "Samuel L. Jackson",
+        "Wesley Snipes"
+      ],
+      "answer": 2,
+      "explanation": "Samuel L. Jackson livre une performance d’anthologie en flic ripoux du C.R.A.S.H. qui harcèle Carl \"CJ\" Johnson dès la scène d’ouverture."
+    },
+    {
+      "id": "jeux-video-020",
+      "difficulty": 7,
+      "question": "Dans \"Counter-Strike 1.6\", quel est le code numérique à 7 chiffres que les terroristes tapent sur le pavé de la bombe C4 lorsqu’ils l’amorcent ?",
+      "options": ["7355608", "1337420", "8008135", "4815162"],
+      "answer": 0,
+      "explanation": "Affiché sur l’écran digital du C4 depuis plus de 25 ans, le code \"7355608\" est gravé dans la mémoire visuelle de tous les joueurs de cybercafé."
+    },
+    {
+      "id": "jeux-video-021",
+      "difficulty": 7,
+      "question": "Sur quelle console de salon Sega a-t-il lancé en 1999 le jeu révolutionnaire \"Shenmue\", juste avant d’abandonner la fabrication de consoles ?",
+      "options": ["Sega Saturn", "Mega Drive", "Dreamcast", "Game Gear"],
+      "answer": 2,
+      "explanation": "Dotée d’un modem intégré pour jouer en ligne dès 1999, la Dreamcast était en avance sur son temps mais n’a pas résisté au raz-de-marée de la PlayStation 2."
+    },
+    {
+      "id": "jeux-video-022",
+      "difficulty": 8,
+      "question": "Dans \"Metal Gear Solid\" (1998) sur PlayStation, quelle astuce géniale fallait-il trouver pour vaincre le boss télépathe Psycho Mantis qui lisait toutes nos actions ?",
+      "options": [
+        "Brancher sa manette sur le port joueur n°2 de la console",
+        "Mettre le jeu en pause pendant 5 minutes",
+        "Ouvrir le capot CD de la PlayStation en plein combat",
+        "Baisser le volume de la télévision à zéro"
+      ],
+      "answer": 0,
+      "explanation": "Hideo Kojima brisait le quatrième mur : Psycho Mantis lisait même la carte mémoire pour commenter vos sauvegardes de Castlevania !"
+    },
+    {
+      "id": "jeux-video-023",
+      "difficulty": 8,
+      "question": "Quel éditeur français a publié le jeu \"Rayman\" créé par Michel Ancel à Montpellier en 1995 (sans bras ni jambes pour simplifier l’animation 2D) ?",
+      "options": ["Infogrames", "Quantic Dream", "Ubisoft", "Arkane Studios"],
+      "answer": 2,
+      "explanation": "Sorti au lancement de la première PlayStation et sur Atari Jaguar, le premier Rayman reste l’un des jeux vidéo français les plus vendus de l’histoire."
+    },
+    {
+      "id": "jeux-video-024",
+      "difficulty": 8,
+      "question": "Dans \"World of Warcraft\", quel joueur est devenu une légende d’Internet en mai 2005 en fonçant tête baissée dans une salle remplie d’œufs de dragons en hurlant son propre nom ?",
+      "options": ["Leeroy Jenkins", "Kungen", "Reckful", "Athene"],
+      "answer": 0,
+      "explanation": "Pendant que sa guilde élaborait un plan tactique minutieux pendant trois minutes devant le boss du Pic Rochenoire, Ben Schulz (Leeroy Jenkins) revenait de sa cuisine avec du poulet frit !"
+    },
+    {
+      "id": "jeux-video-025",
+      "difficulty": 9,
+      "question": "Dans \"Final Fantasy VII\" (1997), quel est le nom de la multinationale politico-militaire qui épuise la planète en pompant l’énergie \"Mako\" des entrailles de la Terre ?",
+      "options": [
+        "Umbrella Corporation",
+        "CyberLife",
+        "La Shinra Electric Power Company",
+        "Abstergo Industries"
+      ],
+      "answer": 2,
+      "explanation": "Basée au sommet de la ville à deux étages de Midgar, la Shinra est combattue dès l’introduction du jeu par le groupe éco-résistant AVALANCHE mené par Barret et Cloud."
+    },
+    {
+      "id": "jeux-video-026",
+      "difficulty": 9,
+      "question": "Quel célèbre \"Konami Code\", apparu sur NES dans Gradius et Contra, offre 30 vies ou débloque des bonus cachés dans des centaines de jeux vidéo et sites web ?",
+      "options": [
+        "Haut, Haut, Bas, Bas, Gauche, Droite, Gauche, Droite, B, A",
+        "Gauche, Droite, A, B, Haut, Bas, Start, Select",
+        "A, B, A, C, A, B, B",
+        "Haut, Bas, Gauche, Droite, A + Start"
+      ],
+      "answer": 0,
+      "explanation": "Créé en 1986 par le programmeur Kazuhisa Hashimoto qui trouvait Gradius trop difficile à tester, il fonctionne même sur de nombreux sites web modernes !"
+    },
+    {
+      "id": "jeux-video-027",
+      "difficulty": 9,
+      "question": "Pourquoi le personnage de \"Mario\" créé par Shigeru Miyamoto en 1981 (alors appelé Jumpman dans Donkey Kong) porte-t-il une casquette et une grosse moustache ?",
+      "options": [
+        "Pour ressembler à un acteur italien de western spaghetti",
+        "À la demande du syndicat des plombiers de New York",
+        "En raison des limitations techniques de 16x16 pixels qui empêchaient de dessiner une bouche et des cheveux animés",
+        "Pour le différencier de Pac-Man"
+      ],
+      "answer": 2,
+      "explanation": "Avec seulement 16x16 pixels disponibles, Miyamoto lui a mis une casquette pour ne pas avoir à animer ses cheveux lors des sauts, et une moustache pour éviter de dessiner une bouche !"
+    },
+    {
+      "id": "jeux-video-028",
+      "difficulty": 10,
+      "question": "Dans les premières versions de \"Pokémon Rouge et Bleu\", comment s’appelait le célèbre Pokémon \"bug\" n°000 en forme de bloc de pixels brouillés qui apparaissait sur la rive est de Cramois’Île et multipliait le 6e objet du sac par 128 ?",
+      "options": ["MissingNo.", "Mewthree", "Glitchachu", "Null00"],
+      "answer": 0,
+      "explanation": "Abréviation de \"Missing Number\" (numéro manquant), MissingNo. apparaissait lorsque le jeu tentait de lire les données de rencontre d’une zone côtière à partir du nom du joueur stocké en mémoire."
+    },
+    {
+      "id": "jeux-video-029",
+      "difficulty": 10,
+      "question": "Pourquoi le fantôme orange de \"Pac-Man\" (Clyde) semble-t-il agir de manière totalement imprévisible par rapport au fantôme rouge (qui vous traque) et au rose (qui vous contourne) ?",
+      "options": [
+        "Il reproduit les mouvements du joueur avec 3 secondes de retard",
+        "Ses déplacements sont générés par l’horloge interne de la borne",
+        "Son algorithme le fait traquer Pac-Man quand il est loin, mais fuir vers le coin inférieur gauche dès qu’il s’approche à moins de 8 cases",
+        "Il suit toujours le fantôme bleu"
+      ],
+      "answer": 2,
+      "explanation": "Toru Iwatani a programmé une intelligence artificielle distincte pour chacun des 4 fantômes : Blinky attaque de front, Pinky vise 4 cases devant vous, Inky calcule un vecteur complexe, et Clyde fait demi-tour dès qu’il s’approche !"
+    },
+    {
+      "id": "jeux-video-030",
+      "difficulty": 10,
+      "question": "Dans le jeu culte \"GoldenEye 007\" (1997) sur Nintendo 64, comment le célèbre mode multijoueur à 4 en écran splitté (qui a défini les soirées entre amis des années 90) a-t-il été ajouté au jeu ?",
+      "options": [
+        "Il a été codé en cachette à la toute fin du développement par un seul ingénieur (Steve Ellis) sans l’accord initial de Nintendo ni de la direction de Rare",
+        "Il avait été exigé par Pierce Brosnan dans son contrat",
+        "C’était un jeu séparé fusionné au dernier moment",
+        "Il a été développé par Shigeru Miyamoto lui-même"
+      ],
+      "answer": 0,
+      "explanation": "L’équipe de Rareware ne comptait que 9 personnes qui n’avaient jamais fait de jeu vidéo auparavant, et Steve Ellis a codé le mode multijoueur en quelques semaines dans le dos des producteurs !"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "theme": "societe",
+  "questions": [
+    {
+      "id": "societe-001",
+      "difficulty": 1,
+      "question": "Quel logiciel de messagerie instantanée permettait d'envoyer des « Wizz » pour faire vibrer l'écran de ses amis ?",
+      "options": ["MSN Messenger", "Skype", "AIM", "ICQ"],
+      "answer": 0,
+      "explanation": "Sorti en 1999, MSN Messenger a rythmé les soirées des ados des années 2000 avec ses statuts en paroles de chansons et ses fameux Wizz."
+    },
+    {
+      "id": "societe-002",
+      "difficulty": 1,
+      "question": "Quelle marque de téléphonie finlandaise a commercialisé l'indestructible 3310 en l'an 2000 ?",
+      "options": ["Ericsson", "Motorola", "Nokia", "Alcatel"],
+      "answer": 2,
+      "explanation": "Écoulé à plus de 126 millions d'exemplaires, le Nokia 3310 est resté célèbre pour sa batterie inépuisable et son jeu Snake II."
+    },
+    {
+      "id": "societe-003",
+      "difficulty": 1,
+      "question": "Quel jeu de cartes à collectionner mettait en scène le « Dragon Blanc aux Yeux Bleus » et « Exodia l'Interdit » ?",
+      "options": [
+        "Yu-Gi-Oh!",
+        "Magic : L'Assemblée",
+        "Duel Masters",
+        "Beyblade"
+      ],
+      "answer": 0,
+      "explanation": "Créé par Kazuki Takahashi, Yu-Gi-Oh! a envahi les cours de récréation au début des années 2000 avec l'arrivée de l'anime en France."
+    },
+    {
+      "id": "societe-004",
+      "difficulty": 2,
+      "question": "Quelle plateforme de blogs lancée par la radio Skyrock en 2002 permettait de poster des photos avec « Lâche tes coms » ?",
+      "options": ["MySpace", "Caramail", "Skyblog", "Copains d'avant"],
+      "answer": 2,
+      "explanation": "Véritable ancêtre d'Instagram en France, Skyblog a compté plus de 30 millions de blogs avant que ses archives ne soient confiées à la BnF en 2023."
+    },
+    {
+      "id": "societe-005",
+      "difficulty": 2,
+      "question": "Comment s'appelaient les petites rondelles de carton illustrées avec lesquelles on jouait à la récré en les retournant avec un « Kini » ?",
+      "options": ["Les Pogs", "Les Jojo's", "Les Gogos", "Les Billes"],
+      "answer": 0,
+      "explanation": "Inspirés des capsules de bouteilles de jus de fruits d'Hawaï (Passion Orange Guava = POG), les Pogs ont créé un véritable marché noir dans les écoles vers 1995."
+    },
+    {
+      "id": "societe-006",
+      "difficulty": 2,
+      "question": "Comment s'appelait l'encyclopédie multimédia sur CD-ROM commercialisée par Microsoft dans les années 1990 et 2000 ?",
+      "options": [
+        "Universalis Junior",
+        "Wikipédia CD",
+        "Encarta",
+        "Hachette Multimédia"
+      ],
+      "answer": 2,
+      "explanation": "Avant la généralisation d'Internet haut débit et de Wikipédia, Encarta (et son quiz MindMaze dans un château !) a sauvé tous nos exposés de collège."
+    },
+    {
+      "id": "societe-007",
+      "difficulty": 3,
+      "question": "Quel logiciel de partage de fichiers en peer-to-peer (P2P) arborait une tête d'âne ou de mule comme icône ?",
+      "options": ["eMule", "Kazaa", "LimeWire", "Napster"],
+      "answer": 0,
+      "explanation": "Lancé en 2002, eMule a fait connaître à toute une génération l'attente interminable de téléchargement… et les mauvaises surprises en ouvrant enfin le fichier vidéo."
+    },
+    {
+      "id": "societe-008",
+      "difficulty": 3,
+      "question": "Quel lecteur MP3 lancé par Apple en octobre 2001 promettait de mettre « 1 000 chansons dans votre poche » ?",
+      "options": ["Le Walkman", "Le Zune", "L'iPod", "L'iPhone"],
+      "answer": 2,
+      "explanation": "Avec sa molette cliquable et ses écouteurs blancs immédiatement reconnaissables, l'iPod a révolutionné l'industrie musicale et sauvé Apple."
+    },
+    {
+      "id": "societe-009",
+      "difficulty": 3,
+      "question": "Quel forfait téléphonique des années 2000 destiné aux collégiens et lycéens proposait des « SMS illimités dès 17h » avec une pub mettant en scène une boule rose ?",
+      "options": [
+        "M6 Mobile / Orange Zap",
+        "SFR La Carte",
+        "Bouygues Nomad",
+        "Free Mobile"
+      ],
+      "answer": 0,
+      "explanation": "Les forfaits bloqués Zap d'Orange, M6 Mobile ou Universal Mobile obligeaient toute une génération à attendre 17h00 ou 20h00 pile pour bombarder ses amis de SMS !"
+    },
+    {
+      "id": "societe-010",
+      "difficulty": 4,
+      "question": "Quelle marque de sacs à dos en toile ultra-résistante, garantie 30 ans, équipait la quasi-totalité des collégiens et lycéens dans les années 2000 ?",
+      "options": ["Lafuma", "Herschel", "Eastpak", "Fjällräven"],
+      "answer": 2,
+      "explanation": "Le modèle « Padded Pak'r » d'Eastpak était systématiquement personnalisé au Blanco, au marqueur Posca ou avec des patchs de groupes de rock."
+    },
+    {
+      "id": "societe-011",
+      "difficulty": 4,
+      "question": "En quelle année le réseau social Facebook, d'abord réservé aux étudiants américains, a-t-il été fondé par Mark Zuckerberg ?",
+      "options": ["2004", "2002", "2006", "2008"],
+      "answer": 0,
+      "explanation": "Lancé sous le nom « TheFacebook » depuis une chambre de l'université Harvard en février 2004, il s'est ouvert au grand public en septembre 2006 avant de conquérir la France en 2007-2008."
+    },
+    {
+      "id": "societe-012",
+      "difficulty": 4,
+      "question": "Quelle boisson lactée à boire en petite bouteille plastique faisait fureur dans les années 2000 avec ses personnages « Yop » ou « Actimel » — et laquelle promettait de « renforcer les défenses naturelles » ?",
+      "options": ["Yop", "Candy'Up", "Actimel", "Danao"],
+      "answer": 2,
+      "explanation": "Avec son fameux ferment « L. casei Defensis » et sa petite bouteille blanche, Actimel de Danone était le rituel matinal des publicités des années 2000."
+    },
+    {
+      "id": "societe-013",
+      "difficulty": 5,
+      "question": "Quel film d'animation de 1995 produit par Pixar est le tout premier long-métrage de l'histoire entièrement réalisé en images de synthèse ?",
+      "options": ["Toy Story", "1001 Pattes", "Fourmiz", "Monstres et Cie"],
+      "answer": 0,
+      "explanation": "Réalisé par John Lasseter en 1995, Toy Story a ouvert une nouvelle ère du cinéma d'animation en mettant en scène Woody et Buzz l'Éclair."
+    },
+    {
+      "id": "societe-014",
+      "difficulty": 5,
+      "question": "Quel moteur de recherche français ou portail web à tête de chien (un bull-terrier) avait pour slogan « Va chercher ! » à la fin des années 1990 ?",
+      "options": ["AltaVista", "Yahoo!", "Lycos", "Wanadoo"],
+      "answer": 2,
+      "explanation": "D'origine américaine mais très populaire en France, Lycos mettait en scène un labrador noir (puis la formule « Va chercher Lycos ! ») dans toutes les coupures pub de la fin des années 90."
+    },
+    {
+      "id": "societe-015",
+      "difficulty": 5,
+      "question": "Quel magazine mensuel pour enfants et préadolescents, publié par Disney Hachette Presse, était célèbre pour ses gadgets et ses BD de Picsou et Titeuf ?",
+      "options": [
+        "Le Journal de Mickey",
+        "J'aime lire",
+        "Science & Vie Junior",
+        "Astrapi"
+      ],
+      "answer": 0,
+      "explanation": "Hebdomadaire mythique créé en 1934, Le Journal de Mickey publiait en dernière page les planches de Titeuf, Les Profs ou Kid Paddle que tous les enfants de 10 ans lisaient en premier."
+    },
+    {
+      "id": "societe-016",
+      "difficulty": 6,
+      "question": "En quelle année le Pacs (Pacte civil de solidarité) a-t-il été instauré en France sous le gouvernement de Lionel Jospin ?",
+      "options": ["1997", "1999", "2001", "2004"],
+      "answer": 1,
+      "explanation": "Promulgué le 15 novembre 1999 après des débats parlementaires houleux menés par Élisabeth Guigou, il est aujourd’hui plébiscité par la majorité des couples."
+    },
+    {
+      "id": "societe-017",
+      "difficulty": 6,
+      "question": "Quel réseau social lancé en 2003 par Tom Anderson et Chris DeWolfe permettait de personnaliser sa page avec de la musique et un \"Top 8\" d’amis ?",
+      "options": ["Skyblog", "Hi5", "Copains d’avant", "MySpace"],
+      "answer": 3,
+      "explanation": "Avant l’hégémonie de Facebook, MySpace a été le premier réseau social mondial et a révélé des artistes comme Arctic Monkeys ou Lily Allen."
+    },
+    {
+      "id": "societe-018",
+      "difficulty": 6,
+      "question": "Quel opérateur de téléphonie mobile français utilisait dans les années 90 et 2000 le slogan \"Un monde plus mobile\" avant de devenir Orange ?",
+      "options": ["Bouygues Telecom", "Itineris", "Ola", "Tam-Tam"],
+      "answer": 1,
+      "explanation": "Branche mobile de France Télécom lancée en 1992, Itineris a fusionné avec Ola et Mobicarte sous la marque Orange en 2001."
+    },
+    {
+      "id": "societe-019",
+      "difficulty": 7,
+      "question": "Quelle ministre du Travail a porté en 1998 et 2000 les lois instaurant la réduction du temps de travail hebdomadaire à 35 heures en France ?",
+      "options": [
+        "Élisabeth Guigou",
+        "Ségolène Royal",
+        "Catherine Tasca",
+        "Martine Aubry"
+      ],
+      "answer": 3,
+      "explanation": "Les lois dites \"Aubry I\" (1998) et \"Aubry II\" (2000) ont également donné naissance aux fameux jours de RTT si chers aux salariés français."
+    },
+    {
+      "id": "societe-020",
+      "difficulty": 7,
+      "question": "Quel navigateur web gratuit, reconnaissable à son logo de gouvernail et de phare maritime, dominait Internet au milieu des années 90 avant Internet Explorer ?",
+      "options": ["Mosaic", "Netscape Navigator", "Opera", "Safari"],
+      "answer": 1,
+      "explanation": "En libérant son code source en 1998 face au monopole de Microsoft, Netscape a donné naissance au projet Mozilla, futur créateur de Firefox."
+    },
+    {
+      "id": "societe-021",
+      "difficulty": 7,
+      "question": "En mai 2001, quelle émission animée par Benjamin Castaldi sur M6 a inauguré l’ère de la télé-réalité d’enfermement en France ?",
+      "options": ["Star Academy", "Koh-Lanta", "Nice People", "Loft Story"],
+      "answer": 3,
+      "explanation": "Adaptée du format néerlandais Big Brother, la saison 1 remportée par Loana et Christophe a réuni jusqu’à 11 millions de téléspectateurs."
+    },
+    {
+      "id": "societe-022",
+      "difficulty": 8,
+      "question": "Quel psychologue et prix Nobel d’économie 2002 a théorisé le \"Système 1\" (intuitif et rapide) et le \"Système 2\" (lent et logique) de la pensée humaine ?",
+      "options": [
+        "Richard Thaler",
+        "Daniel Kahneman",
+        "Joseph Stiglitz",
+        "Paul Krugman"
+      ],
+      "answer": 1,
+      "explanation": "Son best-seller mondial \"Système 1 / Système 2 : Les deux vitesses de la pensée\" (Thinking, Fast and Slow) résume ses travaux pionniers sur les biais cognitifs avec Amos Tversky."
+    },
+    {
+      "id": "societe-023",
+      "difficulty": 8,
+      "question": "Quel film documentaire réalisé par Stéphane Meunier a dévoilé pour la première fois les coulisses intimes du vestiaire de l’équipe de France en 1998 ?",
+      "options": [
+        "Zidane, un portrait du XXIe siècle",
+        "Rendez-vous le 12 juillet",
+        "I Will Survive",
+        "Les Yeux dans les Bleus"
+      ],
+      "answer": 3,
+      "explanation": "Diffusé sur Canal+ deux jours après le sacre mondial, ce documentaire a immortalisé le cri de guerre d’Aimé Jacquet : \"Muscle ton jeu, Robert !\"."
+    },
+    {
+      "id": "societe-024",
+      "difficulty": 8,
+      "question": "Que signifient exactement les lettres \"SMS\" que nous envoyions au tarif de 1 franc (puis 15 centimes d’euro) l’unité sur nos Nokia 3310 ?",
+      "options": [
+        "Smart Mobile System",
+        "Short Message Service",
+        "Send Message Signal",
+        "Standard Messaging System"
+      ],
+      "answer": 1,
+      "explanation": "Limité à 160 caractères codés sur 7 bits pour tenir dans les canaux de signalisation GSM, le tout premier SMS de l’histoire (\"Merry Christmas\") a été envoyé en décembre 1992."
+    },
+    {
+      "id": "societe-025",
+      "difficulty": 9,
+      "question": "Quel traité international signé au Japon en décembre 1997 fut le tout premier accord mondial juridiquement contraignant visant à réduire les émissions de gaz à effet de serre ?",
+      "options": [
+        "Le protocole de Montréal",
+        "Le sommet de la Terre de Rio",
+        "L’accord de Copenhague",
+        "Le protocole de Kyoto"
+      ],
+      "answer": 3,
+      "explanation": "Attention : le protocole de Montréal (1987) visait les gaz CFC responsables du trou dans la couche d’ozone, tandis que le protocole de Kyoto (1997) ciblait le réchauffement climatique."
+    },
+    {
+      "id": "societe-026",
+      "difficulty": 9,
+      "question": "Pourquoi la technologie sans fil \"Bluetooth\", inventée par l’entreprise suédoise Ericsson en 1994, s’appelle-t-elle littéralement \"Dent bleue\" ?",
+      "options": [
+        "Parce que la première diode laser utilisée émettait un faisceau bleu en forme de canine",
+        "En hommage au roi viking du Xe siècle Harald \"Dent bleue\" qui avait unifié les tribus scandinaves",
+        "C’était le nom de code du bateau du PDG d’Ericsson",
+        "En référence aux myrtilles suédoises consommées par les ingénieurs"
+      ],
+      "answer": 1,
+      "explanation": "Harald Blåtand avait unifié le Danemark et la Norvège comme Bluetooth unifie ordinateurs et téléphones ; le logo Bluetooth est d’ailleurs la fusion des deux runes nordiques de ses initiales (H et B) !"
+    },
+    {
+      "id": "societe-027",
+      "difficulty": 9,
+      "question": "D’où vient le mot \"Spam\" utilisé pour désigner les courriers électroniques indésirables depuis les débuts d’Internet ?",
+      "options": [
+        "De l’acronyme informatique \"Systematically Pushed Automated Mail\"",
+        "Du nom du premier pirate informatique arrêté par le FBI en 1993",
+        "Du code postal de la Silicon Valley",
+        "D’un sketch des Monty Python où des Vikings chantent le nom d’une marque de viande en boîte (\"SPAM\") pour couvrir toute conversation"
+      ],
+      "answer": 3,
+      "explanation": "Dans le sketch des Monty Python (1970), tous les plats du restaurant contiennent du jambon épicé \"SPAM\" et un chœur de Vikings hurle \"Spam, Spam, Spam!\" en empêchant les clients de parler."
+    },
+    {
+      "id": "societe-028",
+      "difficulty": 10,
+      "question": "Dans le célèbre \"problème de Monty Hall\" (jeu télévisé avec 3 portes cachant une voiture et deux chèvres), quelle est votre probabilité exacte de gagner la voiture si vous CHANGEZ de porte après que l’animateur a ouvert une porte révélant une chèvre ?",
+      "options": [
+        "1 chance sur 2 (50 %)",
+        "2 chances sur 3 (66,7 %)",
+        "1 chance sur 3 (33,3 %)",
+        "3 chances sur 4 (75 %)"
+      ],
+      "answer": 1,
+      "explanation": "Ce paradoxe probabiliste a rendu fous même des mathématiciens : votre choix initial n’avait que 1/3 de chance d’être bon, donc les 2/3 restants se concentrent intégralement sur l’autre porte restée fermée !"
+    },
+    {
+      "id": "societe-029",
+      "difficulty": 10,
+      "question": "Quelle est l’origine réelle de l’expression \"OK\" (utilisée des milliards de fois par jour dans le monde) apparue dans la presse de Boston en mars 1839 ?",
+      "options": [
+        "Le bilan militaire \"0 Killed\" (zéro tué) pendant la guerre de Sécession",
+        "Les initiales de l’ouvrier Otto Kaiser chez Ford",
+        "Un mot grec signifiant \"Tout est bien\"",
+        "Une abréviation humoristique de \"Oll Korrect\" (orthographe volontairement fautive de \"All Correct\" alors à la mode chez les journalistes américains)"
+      ],
+      "answer": 3,
+      "explanation": "Démontré par le linguiste Allen Walker Read : le 23 mars 1839, le \"Boston Morning Post\" a lancé \"o.k. — oll korrect\", puis le candidat démocrate Martin Van Buren (surnommé \"Old Kinderhook\") l’a popularisé avec son \"OK Club\" en 1840 !"
+    },
+    {
+      "id": "societe-030",
+      "difficulty": 10,
+      "question": "Pourquoi les lettres des claviers d’ordinateur et de smartphone sont-elles disposées en \"AZERTY\" ou \"QWERTY\" plutôt que dans l’ordre alphabétique ?",
+      "options": [
+        "Pour ralentir volontairement les dactylographes qui tapaient trop vite",
+        "Pour éloigner sur les premières machines à écrire mécaniques (Sholes & Glidden, 1873) les paires de lettres fréquemment tapées à la suite afin d’éviter que leurs tiges métalliques ne se coincent entre elles",
+        "Parce que les lettres forment le code secret de l’inventeur Christopher Sholes",
+        "Pour économiser de l’encre sur les rubans"
+      ],
+      "answer": 1,
+      "explanation": "Sur les machines à écrire mécaniques du XIXe siècle, frapper deux tiges voisines trop vite les faisait s’emmêler dans le panier : Christopher Sholes a donc séparé les bigrammes fréquents de l’anglais !"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "theme": "dessins-animes",
+  "questions": [
+    {
+      "id": "dessins-animes-001",
+      "difficulty": 1,
+      "question": "Comment s'appelle la souris la plus célèbre de Disney ?",
+      "options": ["Mickey", "Jerry", "Speedy", "Stuart"],
+      "answer": 0,
+      "explanation": "Mickey Mouse a été créé par Walt Disney et Ub Iwerks en 1928."
+    },
+    {
+      "id": "dessins-animes-002",
+      "difficulty": 1,
+      "question": "Quel est le Pokémon jaune et électrique de Sacha ?",
+      "options": ["Salamèche", "Bulbizarre", "Pikachu", "Carapuce"],
+      "answer": 2,
+      "explanation": "Pikachu est le fidèle compagnon de Sacha et préfère voyager hors de sa Poké Ball."
+    },
+    {
+      "id": "dessins-animes-003",
+      "difficulty": 1,
+      "question": "Dans « La Reine des neiges », comment s'appelle le bonhomme de neige ?",
+      "options": ["Sven", "Kristoff", "Hans", "Olaf"],
+      "answer": 3,
+      "explanation": "Olaf a été créé par la magie d'Elsa et adore l'idée de l'été."
+    },
+    {
+      "id": "dessins-animes-004",
+      "difficulty": 1,
+      "question": "Quel animal est Simba dans « Le Roi lion » ?",
+      "options": ["Un tigre", "Un lion", "Un guépard", "Un léopard"],
+      "answer": 1,
+      "explanation": "Simba est un lionceau, fils du roi Mufasa, qui deviendra roi à son tour."
+    },
+    {
+      "id": "dessins-animes-005",
+      "difficulty": 1,
+      "question": "Dans « Le Monde de Nemo », quel poisson est Nemo ?",
+      "options": [
+        "Un requin",
+        "Un hippocampe",
+        "Un poisson-chirurgien",
+        "Un poisson-clown"
+      ],
+      "answer": 3,
+      "explanation": "Nemo est un poisson-clown ; dans la nature, ces poissons vivent dans les anémones de mer."
+    },
+    {
+      "id": "dessins-animes-006",
+      "difficulty": 1,
+      "question": "Combien de nains vivent avec Blanche-Neige ?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 2,
+      "explanation": "Les sept nains s'appellent Prof, Grincheux, Joyeux, Timide, Atchoum, Dormeur et Simplet."
+    },
+    {
+      "id": "dessins-animes-007",
+      "difficulty": 1,
+      "question": "Dans « La Pat' Patrouille », comment s'appelle le chien pompier ?",
+      "options": ["Chase", "Ruben", "Stella", "Marcus"],
+      "answer": 3,
+      "explanation": "Marcus est le dalmatien pompier de la Pat' Patrouille, toujours un peu maladroit."
+    },
+    {
+      "id": "dessins-animes-008",
+      "difficulty": 1,
+      "question": "Quel animal est T'choupi ?",
+      "options": ["Un ours", "Un pingouin", "Un lapin", "Un chat"],
+      "answer": 1,
+      "explanation": "T'choupi est un petit pingouin imaginé par l'auteur français Thierry Courtin."
+    },
+    {
+      "id": "dessins-animes-009",
+      "difficulty": 1,
+      "question": "Dans « Toy Story », comment s'appelle le jouet cow-boy ?",
+      "options": ["Woody", "Buzz l'Éclair", "Rex", "Zig"],
+      "answer": 0,
+      "explanation": "Woody est le shérif préféré d'Andy, jusqu'à l'arrivée de Buzz l'Éclair."
+    },
+    {
+      "id": "dessins-animes-010",
+      "difficulty": 2,
+      "question": "Qui prépare la potion magique dans « Astérix » ?",
+      "options": ["Abraracourcix", "Assurancetourix", "Panoramix", "Obélix"],
+      "answer": 2,
+      "explanation": "Panoramix est le druide du village ; il cueille le gui avec une serpe d'or."
+    },
+    {
+      "id": "dessins-animes-011",
+      "difficulty": 2,
+      "question": "Pourquoi Obélix n'a-t-il pas le droit de boire la potion magique ?",
+      "options": [
+        "Il n'aime pas son goût",
+        "Il est tombé dedans quand il était petit",
+        "Il est trop jeune",
+        "Il est allergique"
+      ],
+      "answer": 1,
+      "explanation": "Tombé dans la marmite bébé, Obélix garde pour toujours la force de la potion."
+    },
+    {
+      "id": "dessins-animes-012",
+      "difficulty": 2,
+      "question": "Dans « Miraculous », quel est le nom de super-héroïne de Marinette ?",
+      "options": ["Ladybug", "Rena Rouge", "Queen Bee", "Viperion"],
+      "answer": 0,
+      "explanation": "Marinette devient Ladybug grâce au Miraculous de la coccinelle et à son kwami Tikki."
+    },
+    {
+      "id": "dessins-animes-013",
+      "difficulty": 2,
+      "question": "Dans « Aladdin », comment s'appelle le petit singe d'Aladdin ?",
+      "options": ["Iago", "Rajah", "Gus", "Abu"],
+      "answer": 3,
+      "explanation": "Abu est le singe d'Aladdin ; Iago est le perroquet de Jafar et Rajah le tigre de Jasmine."
+    },
+    {
+      "id": "dessins-animes-014",
+      "difficulty": 2,
+      "question": "Dans « Cendrillon », en quoi la citrouille est-elle transformée ?",
+      "options": ["En château", "En robe de bal", "En carrosse", "En traîneau"],
+      "answer": 2,
+      "explanation": "La marraine fée transforme la citrouille en carrosse, mais le charme s'arrête à minuit."
+    },
+    {
+      "id": "dessins-animes-015",
+      "difficulty": 2,
+      "question": "Comment s'appelle le petit chien d'Obélix ?",
+      "options": ["Rantanplan", "Idéfix", "Milou", "Pif"],
+      "answer": 1,
+      "explanation": "Idéfix est un petit chien qui adore les arbres et pleure quand on en coupe un."
+    },
+    {
+      "id": "dessins-animes-016",
+      "difficulty": 2,
+      "question": "Dans « Peter Pan », comment s'appelle la petite fée ?",
+      "options": [
+        "La Fée Clochette",
+        "La Fée Marraine",
+        "La Fée Morgane",
+        "La Fée Bleue"
+      ],
+      "answer": 0,
+      "explanation": "La Fée Clochette accompagne Peter Pan ; sa poussière de fée permet de voler."
+    },
+    {
+      "id": "dessins-animes-017",
+      "difficulty": 2,
+      "question": "Dans « Le Livre de la jungle », comment s'appelle l'ours ?",
+      "options": ["Bagheera", "Shere Khan", "Baloo", "Kaa"],
+      "answer": 2,
+      "explanation": "Baloo est l'ours joyeux ; Bagheera est la panthère, Shere Khan le tigre et Kaa le serpent."
+    },
+    {
+      "id": "dessins-animes-018",
+      "difficulty": 2,
+      "question": "Dans « Mulan », comment s'appelle le petit dragon ?",
+      "options": ["Pascal", "Zazu", "Timon", "Mushu"],
+      "answer": 3,
+      "explanation": "Mushu est un petit dragon envoyé par les ancêtres de Mulan pour la protéger."
+    },
+    {
+      "id": "dessins-animes-019",
+      "difficulty": 3,
+      "question": "Dans quelle ville se passe « Ratatouille » ?",
+      "options": ["Paris", "Lyon", "Marseille", "Rome"],
+      "answer": 0,
+      "explanation": "Rémy, un rat qui rêve d'être chef, cuisine dans un grand restaurant parisien."
+    },
+    {
+      "id": "dessins-animes-020",
+      "difficulty": 3,
+      "question": "Dans « Dragons », comment s'appelle le dragon d'Harold ?",
+      "options": ["Smaug", "Krokmou", "Elliott", "Saphira"],
+      "answer": 1,
+      "explanation": "Krokmou est un Furie Nocturne ; Harold lui fabrique une nouvelle queue pour qu'il puisse voler."
+    },
+    {
+      "id": "dessins-animes-021",
+      "difficulty": 3,
+      "question": "Dans « Vice-versa », quelle émotion est bleue ?",
+      "options": ["Joie", "Colère", "Tristesse", "Peur"],
+      "answer": 2,
+      "explanation": "Tristesse est bleue, Colère rouge, Peur violette et Joie jaune."
+    },
+    {
+      "id": "dessins-animes-022",
+      "difficulty": 3,
+      "question": "Dans quelle région de Gaule vivent Astérix et Obélix ?",
+      "options": ["En Provence", "En Alsace", "En Corse", "En Armorique"],
+      "answer": 3,
+      "explanation": "Leur village se trouve en Armorique, l'actuelle Bretagne, et résiste encore aux Romains."
+    },
+    {
+      "id": "dessins-animes-023",
+      "difficulty": 3,
+      "question": "Quel Pokémon porte le numéro 1 du Pokédex ?",
+      "options": ["Bulbizarre", "Pikachu", "Mew", "Salamèche"],
+      "answer": 0,
+      "explanation": "Bulbizarre ouvre le Pokédex ; Pikachu, lui, porte le numéro 25."
+    },
+    {
+      "id": "dessins-animes-024",
+      "difficulty": 3,
+      "question": "Dans quel pays se passe le film « Coco » de Pixar ?",
+      "options": ["L'Espagne", "Le Mexique", "Le Brésil", "L'Argentine"],
+      "answer": 1,
+      "explanation": "« Coco » se déroule au Mexique pendant le Jour des morts, une grande fête familiale."
+    },
+    {
+      "id": "dessins-animes-025",
+      "difficulty": 3,
+      "question": "Dans « Shrek », quel animal est le meilleur ami de Shrek ?",
+      "options": ["Un chat", "Un cheval", "Un âne", "Un dragon"],
+      "answer": 2,
+      "explanation": "L'Âne, très bavard, accompagne l'ogre Shrek dans toutes ses aventures."
+    },
+    {
+      "id": "dessins-animes-026",
+      "difficulty": 4,
+      "question": "Quel auteur français a écrit les contes « Cendrillon » et « Le Chat botté » ?",
+      "options": [
+        "Jean de La Fontaine",
+        "Victor Hugo",
+        "Jules Verne",
+        "Charles Perrault"
+      ],
+      "answer": 3,
+      "explanation": "Charles Perrault a publié ces contes au XVIIe siècle, avec aussi « Le Petit Chaperon rouge »."
+    },
+    {
+      "id": "dessins-animes-027",
+      "difficulty": 4,
+      "question": "Quel est le tout premier long métrage d'animation de Disney ?",
+      "options": [
+        "Blanche-Neige et les Sept Nains",
+        "Pinocchio",
+        "Bambi",
+        "Dumbo"
+      ],
+      "answer": 0,
+      "explanation": "Sorti en 1937, « Blanche-Neige et les Sept Nains » est le premier long métrage animé de Disney."
+    },
+    {
+      "id": "dessins-animes-028",
+      "difficulty": 4,
+      "question": "Quel est le premier long métrage entièrement réalisé en images de synthèse ?",
+      "options": ["Shrek", "Toy Story", "1001 pattes", "L'Âge de glace"],
+      "answer": 1,
+      "explanation": "« Toy Story », de Pixar, est sorti en 1995 : une première dans l'histoire du cinéma."
+    },
+    {
+      "id": "dessins-animes-029",
+      "difficulty": 4,
+      "question": "Qui a écrit le conte « La Petite Sirène » ?",
+      "options": [
+        "Les frères Grimm",
+        "Charles Perrault",
+        "Hans Christian Andersen",
+        "Lewis Carroll"
+      ],
+      "answer": 2,
+      "explanation": "Hans Christian Andersen, auteur danois, a aussi écrit « La Reine des neiges » et « Le Vilain Petit Canard »."
+    },
+    {
+      "id": "dessins-animes-030",
+      "difficulty": 4,
+      "question": "Qui a créé la bande dessinée « Astérix » ?",
+      "options": [
+        "Hergé",
+        "Peyo",
+        "Franquin",
+        "René Goscinny et Albert Uderzo"
+      ],
+      "answer": 3,
+      "explanation": "Goscinny écrivait les histoires et Uderzo les dessinait ; Astérix est né en 1959."
+    }
+  ]
+}

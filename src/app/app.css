@@ -1,0 +1,142 @@
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: color-mix(in srgb, var(--bg) 80%, transparent);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+
+.app-header__inner {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: var(--space-3) var(--space-4);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+}
+
+.app-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-weight: 900;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.app-brand__logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-sm);
+  background: var(--gradient);
+}
+
+.app-nav {
+  display: flex;
+  gap: var(--space-1);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.app-nav__link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.app-nav__link svg {
+  width: 18px;
+  height: 18px;
+}
+
+.app-nav__link:hover,
+.app-nav__link.active {
+  color: var(--text);
+  background: var(--surface-2);
+}
+
+@media (max-width: 560px) {
+  .app-nav__link span {
+    display: none;
+  }
+}
+
+.hub-hero {
+  display: grid;
+  gap: var(--space-4);
+  padding: var(--space-6) 0 var(--space-4);
+}
+
+.hub-hero__eyebrow {
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hub-hero h1 {
+  font-size: clamp(2rem, 6vw, 3.4rem);
+  font-weight: 900;
+  max-width: 18ch;
+}
+
+.hub-hero__accent {
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.hub-hero__lead {
+  max-width: 60ch;
+  color: var(--text-muted);
+  font-size: 1.1rem;
+}
+
+.hub-modules {
+  display: grid;
+  gap: var(--space-3);
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hub-module {
+  display: flex;
+  gap: var(--space-3);
+  height: 100%;
+  text-decoration: none;
+  transition:
+    transform 0.15s,
+    border-color 0.15s;
+}
+
+a.hub-module:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+}
+
+.hub-module--soon {
+  opacity: 0.65;
+  box-shadow: none;
+}
+
+.hub-module__icon {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  color: var(--accent);
+}

@@ -1,0 +1,59 @@
+/* Design tokens: every colour, radius and spacing the app uses. Dark first,
+   light under `prefers-color-scheme: light`. Components read tokens only. */
+:root {
+  color-scheme: dark;
+  --bg: #0b0b1a;
+  --bg-glow: radial-gradient(ellipse at top, #1e1b4b80, transparent 60%);
+  --surface: #15152b;
+  --surface-2: #1d1d38;
+  --surface-3: #27274a;
+  --border: #2e2e55;
+  --text: #f1f1fb;
+  --text-muted: #a3a3c2;
+  --text-faint: #6d6d92;
+  --accent: #7c6cff;
+  --accent-2: #c056ff;
+  --accent-contrast: #ffffff;
+  --accent-soft: #7c6cff26;
+  --success: #22c55e;
+  --success-soft: #22c55e22;
+  --danger: #f43f5e;
+  --danger-soft: #f43f5e22;
+  --warning: #f59e0b;
+  --gradient: linear-gradient(135deg, var(--accent), var(--accent-2));
+
+  --radius-sm: 8px;
+  --radius: 14px;
+  --radius-lg: 22px;
+  --shadow: 0 10px 30px -12px #00000099;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --content-width: 1040px;
+  --font: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color-scheme: light;
+    --bg: #f6f5ff;
+    --bg-glow: radial-gradient(ellipse at top, #c7c2ff66, transparent 60%);
+    --surface: #ffffff;
+    --surface-2: #f0effa;
+    --surface-3: #e4e2f5;
+    --border: #dcd9f0;
+    --text: #17162b;
+    --text-muted: #57557a;
+    --text-faint: #8a88a8;
+    --accent: #5b4cf0;
+    --accent-2: #a336e8;
+    --accent-soft: #5b4cf01a;
+    --success-soft: #22c55e1f;
+    --danger-soft: #f43f5e1a;
+    --shadow: 0 10px 30px -16px #2a246b40;
+  }
+}
